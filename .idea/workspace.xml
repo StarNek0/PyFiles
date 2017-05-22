@@ -7,10 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calFib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/有理数四则运算.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/any-kw.py" afterPath="$PROJECT_DIR$/any-kw.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -649,7 +646,14 @@
       <option name="project" value="LOCAL" />
       <updated>1495022423382</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Practice the iMooc">
+      <created>1495460596720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1495460596720</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -694,7 +698,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="32" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25052083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -747,7 +751,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practice the LeetCode and LintCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice the LeetCode and LintCode" />
+    <MESSAGE value="Practice the iMooc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice the iMooc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
