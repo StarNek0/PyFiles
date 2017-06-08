@@ -2,6 +2,7 @@
 # __author__ = 'zsdostar'
 # __date__ = '2017/6/8 13:58'
 import re
+import urlparse
 from BasicURLCrawlingCode import download
 
 
@@ -12,6 +13,7 @@ def link_crawler(seed_url, link_regex):
         html = download(url)
         for link in get_links(html):
             if re.match(link_regex, link):
+                link = urlparse.urljoin(seed_url, link)
                 crawl_queue.append(link)
 
 
