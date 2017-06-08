@@ -6,7 +6,7 @@
     </enabled-run-configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="使用了urlprase模块来创建绝对路径，当运行时，发现虽然下载没有出现错误，但是同样的页面总是被不断下载，因为地点之间相互存在链接">
+    <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py" afterPath="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py" />
     </list>
@@ -132,8 +132,8 @@
       <file leaf-file-name="LinkCrawling.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+            <state relative-caret-position="182">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="e#70#79#0" expanded="true" />
               </folding>
@@ -741,7 +741,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496902945828</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="使用了urlprase模块来创建绝对路径，当运行时，发现虽然下载没有出现错误，但是同样的页面总是被不断下载，因为地点之间相互存在链接">
+      <created>1496903255703</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1496903255703</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -843,19 +850,20 @@
     <MESSAGE value="拥有捕获异常，错误重试，用户代理的灵活下载HTML的函数" />
     <MESSAGE value="利用页面ID进行遍历下载页面" />
     <MESSAGE value="利用链接进行爬虫&#10;缺点：下载未成功，因为这里的index/1是相对路径，要想成功下载还要协议和服务器部分的绝对路径，urllib2是无法获取上下文路径的，所以需要改进" />
-    <option name="LAST_COMMIT_MESSAGE" value="利用链接进行爬虫&#10;缺点：下载未成功，因为这里的index/1是相对路径，要想成功下载还要协议和服务器部分的绝对路径，urllib2是无法获取上下文路径的，所以需要改进" />
+    <MESSAGE value="使用了urlprase模块来创建绝对路径，当运行时，发现虽然下载没有出现错误，但是同样的页面总是被不断下载，因为地点之间相互存在链接" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用了urlprase模块来创建绝对路径，当运行时，发现虽然下载没有出现错误，但是同样的页面总是被不断下载，因为地点之间相互存在链接" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py</url>
-          <line>10</line>
+          <line>12</line>
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py</url>
-          <line>20</line>
+          <line>25</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
       </breakpoints>
@@ -1183,8 +1191,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+        <state relative-caret-position="182">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#70#79#0" expanded="true" />
           </folding>
