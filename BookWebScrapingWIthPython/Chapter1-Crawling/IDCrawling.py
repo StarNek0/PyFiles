@@ -2,7 +2,7 @@
 # __author__ = 'zsdostar'
 # __date__ = '2017/6/8 13:48'
 import itertools
-from BasicWellCrawlingCode import download
+from BasicURLCrawlingCode import download
 """这段代码演示了如何利用ID的连续性进行遍历爬取页面"""
 
 # 以下代码并不健壮，因为如果出现了不连续间隔点ID，就会退出
