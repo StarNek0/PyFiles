@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoTestManager">
-    <enabled-run-configurations>
-      <run-configuration type="tests" name="Unittests in P89.py" />
-    </enabled-run-configurations>
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Course-Scrapy/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookBeginingPython/EightQueens.py" afterPath="$PROJECT_DIR$/Book-BeginingPython/EightQueens.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookBeginingPython/P567.py" afterPath="$PROJECT_DIR$/Book-BeginingPython/P567.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookBeginingPython/P89.py" afterPath="$PROJECT_DIR$/Book-BeginingPython/P89.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookBeginingPython/__init__.py" afterPath="$PROJECT_DIR$/Book-BeginingPython/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookCorePython/Chapter1.py" afterPath="$PROJECT_DIR$/Book-CorePython/Chapter1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookCorePython/Chapter2/__init__.py" afterPath="$PROJECT_DIR$/Book-CorePython/Chapter2/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookCorePython/Chapter2/tsTclnt.py" afterPath="$PROJECT_DIR$/Book-CorePython/Chapter2/tsTclnt.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookCorePython/Chapter2/tsTserv.py" afterPath="$PROJECT_DIR$/Book-CorePython/Chapter2/tsTserv.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookCorePython/__init__.py" afterPath="$PROJECT_DIR$/Book-CorePython/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/BasicURLCrawlingCode.py" afterPath="$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/BasicURLCrawlingCode.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/IDCrawling.py" afterPath="$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/IDCrawling.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py" afterPath="$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/__init__.py" afterPath="$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BookWebScrapingWIthPython/__init__.py" afterPath="$PROJECT_DIR$/Book-WebScrapingWIthPython/__init__.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,9 +31,11 @@
     <SUITE FILE_PATH="coverage/PyFiles$EightQueens.coverage" NAME="EightQueens Coverage Results" MODIFIED="1494898118719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
     <SUITE FILE_PATH="coverage/PyFiles$.coverage" NAME="类四则运算 Coverage Results" MODIFIED="1495457587909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFiles$tsTclnt.coverage" NAME="tsTclnt Coverage Results" MODIFIED="1495507499977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookCorePython/Chapter2" />
+    <SUITE FILE_PATH="coverage/PyFiles$test.coverage" NAME="test Coverage Results" MODIFIED="1497844976059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx" />
     <SUITE FILE_PATH="coverage/PyFiles$tsTserv.coverage" NAME="tsTserv Coverage Results" MODIFIED="1495507497019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookCorePython/Chapter2" />
     <SUITE FILE_PATH="coverage/PyFiles$IDCrawling.coverage" NAME="IDCrawling Coverage Results" MODIFIED="1496996207108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
     <SUITE FILE_PATH="coverage/PyFiles$zhengze.coverage" NAME="zhengze Coverage Results" MODIFIED="1497015385552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1497843485297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx" />
     <SUITE FILE_PATH="coverage/PyFiles$P89.coverage" NAME="P89 Coverage Results" MODIFIED="1493559480813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
     <SUITE FILE_PATH="coverage/PyFiles$__1_.coverage" NAME="回文数 (1) Coverage Results" MODIFIED="1495013416759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
     <SUITE FILE_PATH="coverage/PyFiles$ejzqh.coverage" NAME="ejzqh Coverage Results" MODIFIED="1495019046855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
@@ -121,7 +106,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -202,6 +198,7 @@
         <option value="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/WellCrawling.py" />
         <option value="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/IDCrawling.py" />
         <option value="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py" />
+        <option value="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx/test.py" />
       </list>
     </option>
   </component>
@@ -263,13 +260,53 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Course-Scrapy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter3-RegEx&amp;dfs&amp;bfs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Course-Scrapy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter3-RegEx&amp;dfs&amp;bfs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RegEx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="ToolWindowTODO.ShowToolbar" value="false" />
@@ -296,26 +333,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LinkCrawling">
-    <configuration default="false" name="WellCrawling" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\PyFiles\BookWebScrapingWIthPython\Chapter1-Crawling\BasicURLCrawlingCode.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.test">
     <configuration default="false" name="IDCrawling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -354,25 +372,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="BasicURLCrawlingCode" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/BasicURLCrawlingCode.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="zhengze" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -387,6 +386,41 @@
       <module name="pyfile" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhengze.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyfile" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx\u0026dfs\u0026bfs/RegEx/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyfile" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -595,19 +629,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.P89" />
-      <item index="1" class="java.lang.String" itemvalue="Python.WellCrawling" />
-      <item index="2" class="java.lang.String" itemvalue="Python.IDCrawling" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LinkCrawling" />
-      <item index="4" class="java.lang.String" itemvalue="Python.BasicURLCrawlingCode" />
-      <item index="5" class="java.lang.String" itemvalue="Python.zhengze" />
+      <item index="1" class="java.lang.String" itemvalue="Python.IDCrawling" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LinkCrawling" />
+      <item index="3" class="java.lang.String" itemvalue="Python.zhengze" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test.py" />
+      <item index="5" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LinkCrawling" />
-        <item index="1" class="java.lang.String" itemvalue="Python.zhengze" />
-        <item index="2" class="java.lang.String" itemvalue="Python.IDCrawling" />
-        <item index="3" class="java.lang.String" itemvalue="Python.BasicURLCrawlingCode" />
-        <item index="4" class="java.lang.String" itemvalue="Python.WellCrawling" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LinkCrawling" />
+        <item index="3" class="java.lang.String" itemvalue="Python.zhengze" />
+        <item index="4" class="java.lang.String" itemvalue="Python.IDCrawling" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -697,13 +731,17 @@
       <option name="project" value="LOCAL" />
       <updated>1497016059764</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="rename">
+      <created>1497842921274</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1497842921274</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_P89_py - 2017.04.27 at 15h 57m 15s.xml">
-      <configuration name="Unittests in P89.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_P89_py - 2017.04.27 at 15h 57m 27s.xml">
       <configuration name="Unittests in P89.py" configurationId="tests" />
     </history-entry>
@@ -731,6 +769,9 @@
     <history-entry file="Unittests_in_PyFiles - 2017.04.30 at 21h 02m 17s.xml">
       <configuration name="Unittests in PyFiles" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.06.19 at 11h 38m 06s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -743,12 +784,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26652452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26652452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33661202" sideWeight="0.49786323" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32123798" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29826465" sideWeight="0.54583335" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29826465" sideWeight="0.54583335" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2984127" sideWeight="0.45416668" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -811,7 +853,8 @@
     <MESSAGE value="使用了urlprase模块来创建绝对路径，当运行时，发现虽然下载没有出现错误，但是同样的页面总是被不断下载，因为地点之间相互存在链接" />
     <MESSAGE value="现在，它能够为爬取过的页面添加标记，能够如期的停止，所以这是一个可用的爬虫" />
     <MESSAGE value="..修改了使得这个（伪可用的爬虫）变成真正可用的爬虫" />
-    <option name="LAST_COMMIT_MESSAGE" value="..修改了使得这个（伪可用的爬虫）变成真正可用的爬虫" />
+    <MESSAGE value="rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -820,13 +863,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SqlDbWays/test_select.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python27/Lib/site-packages/MySQLdb/connections.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -1089,6 +1125,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1104,13 +1141,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10">
           <caret line="131" column="18" lean-forward="true" selection-start-line="131" selection-start-column="18" selection-end-line="131" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Book-BeginingPython/P89.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="150" column="13" lean-forward="false" selection-start-line="150" selection-start-column="10" selection-end-line="150" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1118,6 +1149,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1125,6 +1157,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#70#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Book-BeginingPython/P89.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1794">
+          <caret line="150" column="13" lean-forward="false" selection-start-line="150" selection-start-column="10" selection-end-line="150" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
