@@ -6,9 +6,23 @@
     </enabled-run-configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="现在，它能够为爬取过的页面添加标记，能够如期的停止，所以这是一个可用的爬虫">
+    <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Course-Scrapy/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py" afterPath="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookBeginingPython/EightQueens.py" afterPath="$PROJECT_DIR$/Book-BeginingPython/EightQueens.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookBeginingPython/P567.py" afterPath="$PROJECT_DIR$/Book-BeginingPython/P567.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookBeginingPython/P89.py" afterPath="$PROJECT_DIR$/Book-BeginingPython/P89.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookBeginingPython/__init__.py" afterPath="$PROJECT_DIR$/Book-BeginingPython/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookCorePython/Chapter1.py" afterPath="$PROJECT_DIR$/Book-CorePython/Chapter1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookCorePython/Chapter2/__init__.py" afterPath="$PROJECT_DIR$/Book-CorePython/Chapter2/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookCorePython/Chapter2/tsTclnt.py" afterPath="$PROJECT_DIR$/Book-CorePython/Chapter2/tsTclnt.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookCorePython/Chapter2/tsTserv.py" afterPath="$PROJECT_DIR$/Book-CorePython/Chapter2/tsTserv.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookCorePython/__init__.py" afterPath="$PROJECT_DIR$/Book-CorePython/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/BasicURLCrawlingCode.py" afterPath="$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/BasicURLCrawlingCode.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/IDCrawling.py" afterPath="$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/IDCrawling.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py" afterPath="$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/__init__.py" afterPath="$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BookWebScrapingWIthPython/__init__.py" afterPath="$PROJECT_DIR$/Book-WebScrapingWIthPython/__init__.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -107,20 +121,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LinkCrawling.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#70#79#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -234,6 +235,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -256,92 +259,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LintCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyFiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyFiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyFiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyFiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BookWebScrapingWIthPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyFiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyFiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BookWebScrapingWIthPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter1-Crawling" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyFiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyFiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BookCorePython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyFiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyFiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BookCorePython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter2" />
+              <option name="myItemId" value="Course-Scrapy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -767,7 +690,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496903478326</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="..修改了使得这个（伪可用的爬虫）变成真正可用的爬虫">
+      <created>1497016059764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1497016059764</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -813,13 +743,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26385927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26652452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33661202" sideWeight="0.49786323" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32123798" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29826465" sideWeight="0.54583335" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29826465" sideWeight="0.54583335" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2984127" sideWeight="0.45416668" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -881,7 +810,8 @@
     <MESSAGE value="利用链接进行爬虫&#10;缺点：下载未成功，因为这里的index/1是相对路径，要想成功下载还要协议和服务器部分的绝对路径，urllib2是无法获取上下文路径的，所以需要改进" />
     <MESSAGE value="使用了urlprase模块来创建绝对路径，当运行时，发现虽然下载没有出现错误，但是同样的页面总是被不断下载，因为地点之间相互存在链接" />
     <MESSAGE value="现在，它能够为爬取过的页面添加标记，能够如期的停止，所以这是一个可用的爬虫" />
-    <option name="LAST_COMMIT_MESSAGE" value="现在，它能够为爬取过的页面添加标记，能够如期的停止，所以这是一个可用的爬虫" />
+    <MESSAGE value="..修改了使得这个（伪可用的爬虫）变成真正可用的爬虫" />
+    <option name="LAST_COMMIT_MESSAGE" value="..修改了使得这个（伪可用的爬虫）变成真正可用的爬虫" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1015,7 +945,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookBeginingPython/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Book-BeginingPython/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -1029,7 +959,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookBeginingPython/EightQueens.py">
+    <entry file="file://$PROJECT_DIR$/Book-BeginingPython/EightQueens.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="3" column="53" lean-forward="false" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
@@ -1134,32 +1064,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookCorePython/Chapter2/tsTclnt.py">
+    <entry file="file://$PROJECT_DIR$/Book-CorePython/Chapter2/tsTclnt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookCorePython/Chapter2/tsTserv.py">
+    <entry file="file://$PROJECT_DIR$/Book-CorePython/Chapter2/tsTserv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/IDCrawling.py">
+    <entry file="file://$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/IDCrawling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/BasicURLCrawlingCode.py">
+    <entry file="file://$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/BasicURLCrawlingCode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1167,46 +1096,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookBeginingPython/P567.py">
+    <entry file="file://$PROJECT_DIR$/8.jpg" />
+    <entry file="file://$PROJECT_DIR$/Book-BeginingPython/P567.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10">
           <caret line="131" column="18" lean-forward="true" selection-start-line="131" selection-start-column="18" selection-end-line="131" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookBeginingPython/P89.py">
+    <entry file="file://$PROJECT_DIR$/Book-BeginingPython/P89.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="150" column="13" lean-forward="false" selection-start-line="150" selection-start-column="10" selection-end-line="150" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookCorePython/Chapter1.py">
+    <entry file="file://$PROJECT_DIR$/Book-CorePython/Chapter1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py">
+    <entry file="file://$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/LinkCrawling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#70#79#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
