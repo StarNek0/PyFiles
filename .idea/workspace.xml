@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="word: +{}[][^][a-z]  \s是空格的意思">
+    <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="中文识别">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx/test.py" afterPath="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx/test.py" />
     </list>
@@ -29,7 +29,7 @@
     <SUITE FILE_PATH="coverage/PyFiles$EightQueens.coverage" NAME="EightQueens Coverage Results" MODIFIED="1494898118719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
     <SUITE FILE_PATH="coverage/PyFiles$.coverage" NAME="类四则运算 Coverage Results" MODIFIED="1495457587909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFiles$tsTclnt.coverage" NAME="tsTclnt Coverage Results" MODIFIED="1495507499977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookCorePython/Chapter2" />
-    <SUITE FILE_PATH="coverage/PyFiles$test.coverage" NAME="test Coverage Results" MODIFIED="1497849047402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx" />
+    <SUITE FILE_PATH="coverage/PyFiles$test.coverage" NAME="test Coverage Results" MODIFIED="1497853133103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx" />
     <SUITE FILE_PATH="coverage/PyFiles$tsTserv.coverage" NAME="tsTserv Coverage Results" MODIFIED="1495507497019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookCorePython/Chapter2" />
     <SUITE FILE_PATH="coverage/PyFiles$IDCrawling.coverage" NAME="IDCrawling Coverage Results" MODIFIED="1496996207108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
     <SUITE FILE_PATH="coverage/PyFiles$zhengze.coverage" NAME="zhengze Coverage Results" MODIFIED="1497015385552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -108,8 +108,8 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state relative-caret-position="196">
+              <caret line="63" column="24" lean-forward="true" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -743,7 +743,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497845143383</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="word: +{}[][^][a-z]  \s是空格的意思 \w \S \W">
+      <created>1497849570950</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1497849570950</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -860,7 +867,8 @@
     <MESSAGE value="..修改了使得这个（伪可用的爬虫）变成真正可用的爬虫" />
     <MESSAGE value="rename" />
     <MESSAGE value="word: .*()?&#10;function: match, group" />
-    <option name="LAST_COMMIT_MESSAGE" value="word: .*()?&#10;function: match, group" />
+    <MESSAGE value="word: +{}[][^][a-z]  \s是空格的意思 \w \S \W" />
+    <option name="LAST_COMMIT_MESSAGE" value="word: +{}[][^][a-z]  \s是空格的意思 \w \S \W" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -869,13 +877,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Python27/Lib/site-packages/MySQLdb/connections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python27/Lib/site-packages/MySQLdb/cursors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -1177,10 +1178,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Python27/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="250" column="0" lean-forward="false" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state relative-caret-position="196">
+          <caret line="63" column="24" lean-forward="true" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
           <folding />
         </state>
       </provider>

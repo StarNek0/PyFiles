@@ -46,3 +46,27 @@ match_obj = re.match(regex_str, line)
 if match_obj:
     print 7, match_obj.group()
 # \w == [A-Za-z0-9_]
+
+line = u"study in 南京大学"
+regex_str = u".*?([\u4E00-\u9FA5]+大学)"  # 汉字提取
+match_obj = re.match(regex_str, line)
+if match_obj:
+    print 8, match_obj.group(1)
+
+line = u"小明出生于2001年"
+regex_str = u".*?(\d+年)"
+match_obj = re.match(regex_str, line)
+if match_obj:
+    print 9, match_obj.group(1)
+
+
+line1 = u"小明出生于2001年6月1日"
+line2 = u"小明出生于2001/6/1"
+line3 = u"小明出生于2001-6-1"
+line4 = u"小明出生于2001-06-01"
+line5 = u"小明出生于2001-06"
+line6 = u"小明出生于2001年6月"
+regex_str = u".*出生于(\d{4}[年/-]\d{1,2}([月/-]\d{1,2}|$|月$)[日]?)"
+match_obj = re.match(regex_str, line1)
+if match_obj:
+    print 10, match_obj.group(1)
