@@ -1,8 +1,10 @@
+import os
 try:
     f = open('1.txt')
     line = f.read(2)
-    num = int(line)
-    print 'read num=%d' % num
+    f.seek(-5, os.SEEK_SET)
+    # num = int(line)
+    # print 'read num=%d' % num
 except IOError as e:
     print 'catch IOError:', e
 except ValueError as e:
@@ -16,3 +18,12 @@ finally:
         f.close()
     except NameError as e:
         print 'catch Error:', e
+
+print '----------------------------------------------------'
+
+with open('1.txt') as f1:
+    print 'in with f.read:', f1.read()
+    f1.seek(-5, os.SEEK_SET)
+
+
+print 'with:', f.closed
