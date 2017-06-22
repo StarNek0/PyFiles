@@ -1,0 +1,8 @@
+[userinfo]
+name = xiaoming
+pwd = abc
+
+[study]
+python_base = 15
+python_junior = 20
+linux_base = 15
