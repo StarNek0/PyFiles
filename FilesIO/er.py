@@ -9,6 +9,8 @@ except IOError as e:
     print 'catch IOError:', e
 except ValueError as e:
     print 'catch ValueError:', e
+except IndexError as e:
+    print 'catch IndexError', e
 else:
     print 'No Error'
 finally:
