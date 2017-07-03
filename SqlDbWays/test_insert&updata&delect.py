@@ -23,6 +23,7 @@ try:
 except Exception as e:
     print e
     conn.rollback()  # 出错回滚数据
-
-cursor.close()
-conn.close()
+if cursor:
+    cursor.close()
+if conn:
+    conn.close()
