@@ -26,6 +26,7 @@ __date__ = '2017/4/16 10:43'
 
 try:
     req = urllib2.urlopen('http://www.imooc.com/course/list')
+    print 'haha'
 except :
     print '没网了'
 buf = req.read()
