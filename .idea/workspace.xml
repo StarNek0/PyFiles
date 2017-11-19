@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForPyBase/3-2迭代器.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ForPyBase/3-2迭代器.py" afterPath="$PROJECT_DIR$/ForPyBase/3-2迭代器.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -91,10 +91,10 @@
       <file leaf-file-name="3-2迭代器.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ForPyBase/3-2迭代器.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+            <state relative-caret-position="216">
+              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding>
-                <element signature="e#305#320#0" expanded="true" />
+                <element signature="e#325#340#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -837,7 +837,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511104768190</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="日常慕课视频课程(2/2)">
+      <created>1511106858921</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1511106858921</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -944,7 +951,8 @@
     <MESSAGE value="pythonic求质数" />
     <MESSAGE value="每天几道面试题.." />
     <MESSAGE value="日常Leet题MID(1/1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="日常Leet题MID(1/1)" />
+    <MESSAGE value="日常慕课视频课程(2/2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="日常慕课视频课程(2/2)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -964,39 +972,12 @@
           <line>7</line>
           <option name="timeStamp" value="117" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ForPyBase/3-2迭代器.py</url>
-          <line>52</line>
-          <option name="timeStamp" value="136" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ForPyBase/3-2迭代器.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="137" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ForPyBase/3-2迭代器.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="138" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ForPyBase/3-2迭代器.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="139" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="140" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Course-Scrapy/bilibili.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="910">
-          <caret line="35" column="10" lean-forward="false" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course-Scrapy/baidu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1277,12 +1258,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Python27/Lib/_abcoll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="75" column="8" lean-forward="false" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ForPyBase/3-2迭代器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        <state relative-caret-position="216">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
-            <element signature="e#305#320#0" expanded="true" />
+            <element signature="e#325#340#0" expanded="true" />
           </folding>
         </state>
       </provider>
