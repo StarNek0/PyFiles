@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="日常慕课视频课程(2/2)">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForPyBase/leetcode_400.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python求职" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -855,7 +854,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511106951868</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="日常LeetCode刷题(1/2)">
+      <created>1511361969445</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1511361969445</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -963,7 +969,8 @@
     <MESSAGE value="每天几道面试题.." />
     <MESSAGE value="日常Leet题MID(1/1)" />
     <MESSAGE value="日常慕课视频课程(2/2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="日常慕课视频课程(2/2)" />
+    <MESSAGE value="日常LeetCode刷题(1/2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="日常LeetCode刷题(1/2)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
