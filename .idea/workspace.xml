@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/关于Python求职收集整理的资料/Python求职.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/关于Python求职收集整理的资料/Python求职.xlsx" afterPath="$PROJECT_DIR$/关于Python求职收集整理的资料/Python求职.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HowToUseOjWithPy.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/HowToUseOjWithPy.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python求职" afterPath="$PROJECT_DIR$/关于Python求职收集整理的资料/Python求职.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/any-kw.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/any-kw.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/calFib.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/calFib.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ootest.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/ootest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/orderdict.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/orderdict.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/poww.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/poww.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/road.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/road.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scrapy.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/scrapy.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shiyanlou.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/shiyanlou.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_future.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/test_future.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_my_url.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/test_my_url.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/urlimg.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/urlimg.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/zhengze.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/zhengze.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/zhishu-pythonic.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/zhishu-pythonic.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/zhishu.c" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/zhishu.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/zhishu.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/zhishu.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/有理数四则运算.py" afterPath="$PROJECT_DIR$/杂乱无章的文件都去这里/有理数四则运算.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -110,7 +89,21 @@
     <favorites_list name="PyFiles" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -284,7 +277,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -292,11 +285,21 @@
               <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="Course-Scrapy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="关于Python求职收集整理的资料" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -873,7 +876,21 @@
       <option name="project" value="LOCAL" />
       <updated>1511362005423</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="文件结构优化">
+      <created>1511617157353</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1511617157354</updated>
+    </task>
+    <task id="LOCAL-00030" summary=".">
+      <created>1511618823572</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1511618823572</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -920,17 +937,17 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2510661" sideWeight="0.49459043" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25373134" sideWeight="0.49459043" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3362256" sideWeight="0.49786323" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31991294" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29488575" sideWeight="0.5053305" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.4978678" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2959739" sideWeight="0.4946695" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29488575" sideWeight="0.5053305" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2959739" sideWeight="0.48614073" order="6" side_tool="true" content_ui="tabs" x="23" y="410" width="1872" height="307" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29744136" sideWeight="0.5054096" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30359086" sideWeight="0.5234541" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29744136" sideWeight="0.5054096" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -958,7 +975,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practice the LeetCode and LintCode" />
     <MESSAGE value="Practice the iMooc" />
     <MESSAGE value="拥有捕获异常，错误重试，用户代理的灵活下载HTML的函数" />
     <MESSAGE value="利用页面ID进行遍历下载页面" />
@@ -982,7 +998,9 @@
     <MESSAGE value="日常慕课视频课程(2/2)" />
     <MESSAGE value="日常LeetCode刷题(1/2)" />
     <MESSAGE value="Python校招及实习信息统计" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python校招及实习信息统计" />
+    <MESSAGE value="文件结构优化" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1013,13 +1031,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Book-BeginingPython/P567.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="65" column="4" lean-forward="false" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/IDCrawling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-122">
@@ -1045,13 +1056,7 @@
     <entry file="file://$PROJECT_DIR$/Course-Scrapy/google.html" />
     <entry file="file://C:/Python27/Lib/site-packages/bs4/__init__.py" />
     <entry file="file://C:/Python27/Lib/re.py" />
-    <entry file="file://$PROJECT_DIR$/Course-Scrapy/shixiseng.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="1220" column="6" lean-forward="false" selection-start-line="1220" selection-start-column="6" selection-end-line="1220" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Course-Scrapy/shixiseng.html" />
     <entry file="file://$PROJECT_DIR$/Course-Scrapy/url3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -1272,19 +1277,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/1.txt" />
     <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/any-kw.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1292,7 +1289,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-346">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1300,14 +1296,12 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="162">
             <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1317,7 +1311,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
