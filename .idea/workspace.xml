@@ -2,29 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter5文件处理/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/__init__.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/5-5访问文件状态.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter5文件处理/5-5访问文件状态.py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/5-6临时文件.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter5文件处理/5-6临时文件.py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Chapter2/2-1 filterData.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter2数据结构与算法/2-1 filterData.py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Chapter2/2-2 namedTupleIndex.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter2数据结构与算法/2-2 namedTupleIndex.py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Chapter2/2-3 Times.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter2数据结构与算法/2-3 Times.py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Chapter2/2-4 dictSort(已经在上一节实现了).py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter2数据结构与算法/2-4 dictSort(已经在上一节实现了).py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Chapter2/__init__.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter2数据结构与算法/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Chapter2/gpl.txt" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter2数据结构与算法/gpl.txt" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)/RWcsv.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter6Python读写取各个类型的文件专题(csv,xml,json,xls)/RWcsv.py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)/RWxlsx.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter6Python读写取各个类型的文件专题(csv,xml,json,xls)/RWxlsx.py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)/__init__.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter6Python读写取各个类型的文件专题(csv,xml,json,xls)/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)/demo.json" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter6Python读写取各个类型的文件专题(csv,xml,json,xls)/demo.json" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)/demo.xlsx" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter6Python读写取各个类型的文件专题(csv,xml,json,xls)/demo.xlsx" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)/demo.xml" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter6Python读写取各个类型的文件专题(csv,xml,json,xls)/demo.xml" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)/load_dump_json.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter6Python读写取各个类型的文件专题(csv,xml,json,xls)/load_dump_json.py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)/rwxml.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter6Python读写取各个类型的文件专题(csv,xml,json,xls)/rwxml.py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)/为的demo.xlsx统计总成绩.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter6Python读写取各个类型的文件专题(csv,xml,json,xls)/为的demo.xlsx统计总成绩.py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/python2和3对文本文件处理的差异.jpg" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter5文件处理/python2和3对文本文件处理的差异.jpg" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/去掉拼音的音调.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter5文件处理/去掉拼音的音调.py" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/简单滴处理音频文件.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter5文件处理/简单滴处理音频文件.py" />
+      <change beforePath="$PROJECT_DIR$/ForPyBase/3-2迭代器.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/3-2迭代器.py" />
+      <change beforePath="$PROJECT_DIR$/LintCode/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LintCode/ejzqh.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LintCode/hws.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LintCode/lbcrpx(unsolved).py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LintCode/mmgpdzjsj1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LintCode/mmgpdzjsj2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LintCode/temp/Java面试宝典2017版.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LintCode/最小子数组.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -333,11 +320,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy\Chapter5文件处理" />
+      <recent name="D:\Python_Projects\PyFiles\LeetCode" />
       <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy" />
+      <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy\Chapter5文件处理" />
       <recent name="D:\Python_Projects\PyFiles\关于Python求职收集整理的资料" />
       <recent name="D:\Python_Projects\PyFiles\杂乱无章的文件都去这里" />
-      <recent name="E:\PyFiles\Course-Scrapy" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy\Python读写取各个类型的文件专题(csv,xml,json,xls)" />
@@ -976,7 +963,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515118702921</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="change struct of proj">
+      <created>1515139252941</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1515139252941</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1063,7 +1057,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="利用链接进行爬虫&#10;缺点：下载未成功，因为这里的index/1是相对路径，要想成功下载还要协议和服务器部分的绝对路径，urllib2是无法获取上下文路径的，所以需要改进" />
     <MESSAGE value="使用了urlprase模块来创建绝对路径，当运行时，发现虽然下载没有出现错误，但是同样的页面总是被不断下载，因为地点之间相互存在链接" />
     <MESSAGE value="现在，它能够为爬取过的页面添加标记，能够如期的停止，所以这是一个可用的爬虫" />
     <MESSAGE value="..修改了使得这个（伪可用的爬虫）变成真正可用的爬虫" />
@@ -1088,7 +1081,8 @@
     <MESSAGE value="python实现文件状态等的读取" />
     <MESSAGE value="python实现csv,json,xlsx读写" />
     <MESSAGE value="readxml" />
-    <option name="LAST_COMMIT_MESSAGE" value="readxml" />
+    <MESSAGE value="change struct of proj" />
+    <option name="LAST_COMMIT_MESSAGE" value="change struct of proj" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1119,27 +1113,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-762174762/math.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="315" column="4" lean-forward="false" selection-start-line="315" selection-start-column="4" selection-end-line="315" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/zhishu-pythonic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/test_future.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/urlimg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1200,7 +1173,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ForPyBase/3-2迭代器.py">
+    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/3-2迭代器.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
@@ -1231,13 +1204,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/类啊/class4-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/yield_isprime.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1250,6 +1216,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1329,6 +1296,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
           <caret line="40" column="15" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1336,6 +1304,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1362,6 +1331,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1428,6 +1398,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="239" column="12" lean-forward="false" selection-start-line="239" selection-start-column="5" selection-end-line="239" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类啊/class4-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类啊/class4-4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类啊/class4-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类啊/class4-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
