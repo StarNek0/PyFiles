@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/7-7.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-2.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +63,7 @@
     <SUITE FILE_PATH="coverage/PyFiles$P89.coverage" NAME="P89 Coverage Results" MODIFIED="1493559480813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
     <SUITE FILE_PATH="coverage/PyFiles$8_9_Exception_magic.coverage" NAME="8&amp;9-Exception&amp;magic Coverage Results" MODIFIED="1493271342044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
     <SUITE FILE_PATH="coverage/PyFiles$url.coverage" NAME="url Coverage Results" MODIFIED="1499152694920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
-    <SUITE FILE_PATH="coverage/PyFiles$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1515296330934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
+    <SUITE FILE_PATH="coverage/PyFiles$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1515320235415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
     <SUITE FILE_PATH="coverage/PyFiles$test_future.coverage" NAME="test_future Coverage Results" MODIFIED="1511095040917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFiles$er.coverage" NAME="er Coverage Results" MODIFIED="1497999114585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFiles$.coverage" NAME="去掉拼音的音调 Coverage Results" MODIFIED="1514968518851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂乱无章的文件都去这里" />
@@ -108,13 +106,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="8-1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="8-1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
+            <state relative-caret-position="486">
               <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding>
                 <element signature="e#358#371#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8-2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding>
+                <element signature="e#520#543#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,6 +152,7 @@
       <find>大连</find>
       <find>悦视光合</find>
       <find>天</find>
+      <find>hehehe</find>
     </findStrings>
     <replaceStrings>
       <replace>next_Y</replace>
@@ -165,8 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HowToUseOjWithPy.py" />
-        <option value="$PROJECT_DIR$/shiyanlou.py" />
         <option value="$PROJECT_DIR$/road.py" />
         <option value="$PROJECT_DIR$/Course-Scrapy/163.html" />
         <option value="$PROJECT_DIR$/Course-Scrapy/bilibili.html" />
@@ -214,8 +223,10 @@
         <option value="$PROJECT_DIR$/关于Python求职收集整理的资料/__init__.py" />
         <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/7-6.py" />
         <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/7-7.py" />
-        <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/__init__.py" />
         <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-1.py" />
+        <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/__init__.py" />
+        <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/__init__.py" />
+        <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-2.py" />
       </list>
     </option>
   </component>
@@ -378,7 +389,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.8-1">
+  <component name="RunManager" selected="Python.__init__ (1)">
     <configuration name="7-6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -700,8 +711,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.8-1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.__init__ (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.__init__ (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.8-1" />
         <item index="2" class="java.lang.String" itemvalue="Python.7-7" />
         <item index="3" class="java.lang.String" itemvalue="Python.7-6" />
         <item index="4" class="java.lang.String" itemvalue="Python.__init__" />
@@ -1037,7 +1048,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515278286458</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="多线程，因为GIL，python的线程不适合CPU密集操作">
+      <created>1515304462649</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1515304462649</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1094,7 +1112,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27414164" sideWeight="0.49459043" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29744136" sideWeight="0.5054096" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30299667" sideWeight="0.5234541" order="3" side_tool="false" content_ui="tabs" />
@@ -1106,7 +1124,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1126,7 +1144,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="..修改了使得这个（伪可用的爬虫）变成真正可用的爬虫" />
     <MESSAGE value="rename" />
     <MESSAGE value="word: .*()?&#10;function: match, group" />
     <MESSAGE value="word: +{}[][^][a-z]  \s是空格的意思 \w \S \W" />
@@ -1151,7 +1168,8 @@
     <MESSAGE value="python高阶类的学习" />
     <MESSAGE value="." />
     <MESSAGE value="如何使用描述符对实例属性做类型检查" />
-    <option name="LAST_COMMIT_MESSAGE" value="如何使用描述符对实例属性做类型检查" />
+    <MESSAGE value="多线程，因为GIL，python的线程不适合CPU密集操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程，因为GIL，python的线程不适合CPU密集操作" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1177,8 +1195,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ForPyBase/t.py" />
-    <entry file="file://$PROJECT_DIR$/1.txt" />
     <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/有理数四则运算.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-346">
@@ -1483,14 +1499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/7-7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="783">
@@ -1507,12 +1515,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
+        <state relative-caret-position="486">
           <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
             <element signature="e#358#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="e#520#543#0" expanded="true" />
           </folding>
         </state>
       </provider>
