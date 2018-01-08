@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-6.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/多进程水仙花数.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/8-1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/斐波那契数列.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/__init__.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/__init__.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,7 +69,7 @@
     <SUITE FILE_PATH="coverage/PyFiles$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1515320235415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
     <SUITE FILE_PATH="coverage/PyFiles$test_future.coverage" NAME="test_future Coverage Results" MODIFIED="1511095040917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFiles$er.coverage" NAME="er Coverage Results" MODIFIED="1497999114585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$.coverage" NAME="多进程水仙花数 Coverage Results" MODIFIED="1515399557347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程" />
+    <SUITE FILE_PATH="coverage/PyFiles$.coverage" NAME="斐波那契数列 Coverage Results" MODIFIED="1515403005075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程" />
     <SUITE FILE_PATH="coverage/PyFiles$test_insert_updata_delect.coverage" NAME="test_insert&amp;updata&amp;delect Coverage Results" MODIFIED="1499050771208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SqlDbWays" />
     <SUITE FILE_PATH="coverage/PyFiles$poww.coverage" NAME="poww Coverage Results" MODIFIED="1499834512055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFiles$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1515081215332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
@@ -81,7 +80,7 @@
     <SUITE FILE_PATH="coverage/PyFiles$Unittests_in_test_connection_py.coverage" NAME="Unittests in test_connection.py Coverage Results" MODIFIED="1499045902147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SqlDbWays" />
     <SUITE FILE_PATH="coverage/PyFiles$Two_Sum.coverage" NAME="Two Sum Coverage Results" MODIFIED="1495015047168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/PyFiles$Unittests_in_PyFiles.coverage" NAME="Unittests in PyFiles Coverage Results" MODIFIED="1493557337087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$8_1.coverage" NAME="8-1 Coverage Results" MODIFIED="1515303651283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程" />
+    <SUITE FILE_PATH="coverage/PyFiles$8_1.coverage" NAME="8-1 Coverage Results" MODIFIED="1515404676760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器" />
     <SUITE FILE_PATH="coverage/PyFiles$7_7.coverage" NAME="7-7 Coverage Results" MODIFIED="1515283639503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
     <SUITE FILE_PATH="coverage/PyFiles$5.coverage" NAME="5 Coverage Results" MODIFIED="1493203958285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
     <SUITE FILE_PATH="coverage/PyFiles$EightQueens.coverage" NAME="EightQueens Coverage Results" MODIFIED="1494898118719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
@@ -122,10 +121,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="多进程水仙花数.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="多进程水仙花数.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/多进程水仙花数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
+            <state relative-caret-position="274">
               <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding>
                 <element signature="e#371#399#0" expanded="true" />
@@ -134,11 +133,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/__init__.py">
+      <file leaf-file-name="8-1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/8-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="433">
+              <caret line="38" column="12" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -190,8 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Course-Scrapy/rere.py" />
-        <option value="$PROJECT_DIR$/Course-Scrapy/url1.py" />
         <option value="$PROJECT_DIR$/Course-Scrapy/url3.py" />
         <option value="$PROJECT_DIR$/Course-Scrapy/url.py" />
         <option value="$PROJECT_DIR$/zhengze.py" />
@@ -239,8 +236,10 @@
         <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-5.py" />
         <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-6多进程.py" />
         <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-6.py" />
-        <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/__init__.py" />
         <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/多进程水仙花数.py" />
+        <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/__init__.py" />
+        <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/斐波那契数列.py" />
+        <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/8-1.py" />
       </list>
     </option>
   </component>
@@ -351,6 +350,12 @@
             <path>
               <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="Course-SeniorPy" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter8装饰器" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -376,19 +381,19 @@
     <property name="SearchEverywhereHistoryKey" value="pow&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy\Chapter5文件处理" />
-      <recent name="D:\Python_Projects\PyFiles\杂乱无章的文件都去这里" />
-      <recent name="D:\Python_Projects\PyFiles\LeetCode" />
-      <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy" />
-      <recent name="D:\Python_Projects\PyFiles\关于Python求职收集整理的资料" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy\Python读写取各个类型的文件专题(csv,xml,json,xls)" />
       <recent name="D:\Python_Projects\PyFiles" />
       <recent name="E:\PyFiles\Course-Scrapy\Chapter3-RegEx&amp;dfs&amp;bfs" />
       <recent name="E:\PyFiles\Book-WebScrapingWIthPython\Chapter1-Crawling" />
       <recent name="E:\pyfile\SqlDbWays" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy\Chapter8装饰器" />
+      <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy\Chapter5文件处理" />
+      <recent name="D:\Python_Projects\PyFiles\杂乱无章的文件都去这里" />
+      <recent name="D:\Python_Projects\PyFiles\LeetCode" />
+      <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -403,7 +408,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.多进程水仙花数">
+  <component name="RunManager" selected="Python.8-1">
     <configuration name="多进程水仙花数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -423,7 +428,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="8-6多进程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="斐波那契数列" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -436,7 +441,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyfile" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Python_Projects\PyFiles\Course-SeniorPy\Chapter8多线程\8-6.py" />
+      <option name="SCRIPT_NAME" value="D:\Python_Projects\PyFiles\Course-SeniorPy\Chapter8装饰器\斐波那契数列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="8-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyfile" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/8-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -475,25 +499,6 @@
       <module name="pyfile" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BookBeginingPython/P89.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -717,19 +722,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.P89" />
-      <item index="1" class="java.lang.String" itemvalue="Python.__init__ (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.8-6多进程" />
-      <item index="3" class="java.lang.String" itemvalue="Python.8-6" />
-      <item index="4" class="java.lang.String" itemvalue="Python.__init__" />
-      <item index="5" class="java.lang.String" itemvalue="Python.多进程水仙花数" />
+      <item index="1" class="java.lang.String" itemvalue="Python.8-6" />
+      <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
+      <item index="3" class="java.lang.String" itemvalue="Python.多进程水仙花数" />
+      <item index="4" class="java.lang.String" itemvalue="Python.斐波那契数列" />
+      <item index="5" class="java.lang.String" itemvalue="Python.8-1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.多进程水仙花数" />
-        <item index="1" class="java.lang.String" itemvalue="Python.__init__" />
-        <item index="2" class="java.lang.String" itemvalue="Python.8-6" />
-        <item index="3" class="java.lang.String" itemvalue="Python.8-6多进程" />
-        <item index="4" class="java.lang.String" itemvalue="Python.__init__ (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.8-1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.斐波那契数列" />
+        <item index="2" class="java.lang.String" itemvalue="Python.多进程水仙花数" />
+        <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
+        <item index="4" class="java.lang.String" itemvalue="Python.8-6" />
       </list>
     </recent_temporary>
   </component>
@@ -1083,7 +1088,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515321127685</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="多线程和多进程">
+      <created>1515399854714</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1515399854714</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1172,7 +1184,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="word: .*()?&#10;function: match, group" />
     <MESSAGE value="word: +{}[][^][a-z]  \s是空格的意思 \w \S \W" />
     <MESSAGE value="实际案例" />
     <MESSAGE value="dfs&amp;bfs" />
@@ -1197,7 +1208,8 @@
     <MESSAGE value="如何使用描述符对实例属性做类型检查" />
     <MESSAGE value="多线程，因为GIL，python的线程不适合CPU密集操作" />
     <MESSAGE value="多线程模拟生产者消费者" />
-    <option name="LAST_COMMIT_MESSAGE" value="多线程模拟生产者消费者" />
+    <MESSAGE value="多线程和多进程" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程和多进程" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1223,14 +1235,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter5文件处理/简单滴处理音频文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/aa.txt" />
     <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1455,6 +1459,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="309" column="4" lean-forward="false" selection-start-line="309" selection-start-column="4" selection-end-line="309" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1532,6 +1537,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="27" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1562,21 +1568,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/斐波那契数列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="e#378#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="463">
+          <caret line="27" column="46" lean-forward="true" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/多进程水仙花数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
+        <state relative-caret-position="274">
           <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
             <element signature="e#371#399#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/8-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="38" column="12" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
