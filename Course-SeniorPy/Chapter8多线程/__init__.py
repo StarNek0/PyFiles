@@ -10,4 +10,19 @@
 --------------------------------------------------------------------------
 """
 
+from multiprocessing import Process
 
+
+def fib(n):
+    a, b = 1, 1
+    for i in range(n):
+        a, b = b, a + b
+    return a
+
+
+def _fib(n):
+    print [fib(i) for i in range(n)]
+
+
+if __name__ == '__main__':
+    Process(target=_fib, args=(10000,)).start()
