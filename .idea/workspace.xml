@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/TopK.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/二叉树遍历翻转.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/链表.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/脑补结果.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/补充缺失的代码.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/quick_sort.py" afterPath="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/quick_sort.py" />
+      <change beforePath="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/__init__.py" afterPath="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/__init__.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,10 +66,10 @@
     <SUITE FILE_PATH="coverage/PyFiles$P89.coverage" NAME="P89 Coverage Results" MODIFIED="1493559480813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
     <SUITE FILE_PATH="coverage/PyFiles$8_9_Exception_magic.coverage" NAME="8&amp;9-Exception&amp;magic Coverage Results" MODIFIED="1493271342044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
     <SUITE FILE_PATH="coverage/PyFiles$url.coverage" NAME="url Coverage Results" MODIFIED="1499152694920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
-    <SUITE FILE_PATH="coverage/PyFiles$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1515320235415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
+    <SUITE FILE_PATH="coverage/PyFiles$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1515680759424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器" />
     <SUITE FILE_PATH="coverage/PyFiles$test_future.coverage" NAME="test_future Coverage Results" MODIFIED="1511095040917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFiles$er.coverage" NAME="er Coverage Results" MODIFIED="1497999114585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$.coverage" NAME="斐波那契数列 Coverage Results" MODIFIED="1515403005075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程" />
+    <SUITE FILE_PATH="coverage/PyFiles$.coverage" NAME="脑补结果 Coverage Results" MODIFIED="1515677418668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/关于Python求职收集整理的资料/Code" />
     <SUITE FILE_PATH="coverage/PyFiles$test_insert_updata_delect.coverage" NAME="test_insert&amp;updata&amp;delect Coverage Results" MODIFIED="1499050771208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SqlDbWays" />
     <SUITE FILE_PATH="coverage/PyFiles$poww.coverage" NAME="poww Coverage Results" MODIFIED="1499834512055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFiles$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1515081215332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
@@ -111,68 +109,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="8-6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-6.py">
+      <file leaf-file-name="脑补结果.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/脑补结果.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-              <folding>
-                <element signature="e#401#436#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="多进程水仙花数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/多进程水仙花数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1323">
-              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-              <folding>
-                <element signature="e#371#399#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8-1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/8-1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="790">
-              <caret line="41" column="6" lean-forward="false" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+            <state relative-caret-position="220">
+              <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="链表.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/链表.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="22" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quick_sort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/quick_sort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TopK.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/TopK.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="68" column="22" lean-forward="true" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
-              <folding>
-                <element signature="e#429#440#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -225,9 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zhishu-pythonic.py" />
-        <option value="$PROJECT_DIR$/a.py" />
-        <option value="$PROJECT_DIR$/b.py" />
         <option value="$PROJECT_DIR$/c.py" />
         <option value="$PROJECT_DIR$/d.py" />
         <option value="$PROJECT_DIR$/ForPyBase/5个很好的Python面试题.py" />
@@ -276,6 +215,9 @@
         <option value="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/链表.py" />
         <option value="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/quick_sort.py" />
         <option value="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/TopK.py" />
+        <option value="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/补充缺失的代码.py" />
+        <option value="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/脑补结果.py" />
+        <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/__init__.py" />
       </list>
     </option>
   </component>
@@ -370,7 +312,13 @@
             <path>
               <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Course-SeniorPy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="Course-SeniorPy" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter8装饰器" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
@@ -408,11 +356,11 @@
       <recent name="D:\Python_Projects\PyFiles\LeetCode" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python_Projects\PyFiles\关于Python求职收集整理的资料" />
       <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy\Python读写取各个类型的文件专题(csv,xml,json,xls)" />
       <recent name="D:\Python_Projects\PyFiles" />
       <recent name="E:\PyFiles\Course-Scrapy\Chapter3-RegEx&amp;dfs&amp;bfs" />
       <recent name="E:\PyFiles\Book-WebScrapingWIthPython\Chapter1-Crawling" />
-      <recent name="E:\pyfile\SqlDbWays" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -427,7 +375,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.8-1">
+  <component name="RunManager" selected="Python.__init__ (1)">
     <configuration name="多进程水仙花数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -447,6 +395,44 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="补充缺失的代码" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/关于Python求职收集整理的资料/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyfile" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/补充缺失的代码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="脑补结果" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/关于Python求职收集整理的资料/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyfile" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/脑补结果.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="8-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -461,25 +447,6 @@
       <module name="pyfile" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/8-1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="8-6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -523,20 +490,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyfile" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -739,19 +706,21 @@
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.P89" />
-      <item index="1" class="java.lang.String" itemvalue="Python.8-6" />
-      <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
-      <item index="3" class="java.lang.String" itemvalue="Python.多进程水仙花数" />
-      <item index="4" class="java.lang.String" itemvalue="Python.8-1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.多进程水仙花数" />
+      <item index="2" class="java.lang.String" itemvalue="Python.8-1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.补充缺失的代码" />
+      <item index="4" class="java.lang.String" itemvalue="Python.脑补结果" />
+      <item index="5" class="java.lang.String" itemvalue="Python.__init__ (1)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.8-1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.多进程水仙花数" />
-        <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
-        <item index="3" class="java.lang.String" itemvalue="Python.8-6" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.__init__ (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.脑补结果" />
+        <item index="2" class="java.lang.String" itemvalue="Python.补充缺失的代码" />
+        <item index="3" class="java.lang.String" itemvalue="Python.8-1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.多进程水仙花数" />
       </list>
     </recent_temporary>
   </component>
@@ -768,20 +737,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490100690662</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Practice the iMooc">
-      <created>1495460596720</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1495460596720</updated>
-    </task>
-    <task id="LOCAL-00003" summary="拥有捕获异常，错误重试，用户代理的灵活下载HTML的函数">
-      <created>1496900737519</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1496900737519</updated>
     </task>
     <task id="LOCAL-00004" summary="利用页面ID进行遍历下载页面">
       <created>1496901463643</created>
@@ -1112,7 +1067,21 @@
       <option name="project" value="LOCAL" />
       <updated>1515405314606</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="面试复习">
+      <created>1515501109280</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1515501109281</updated>
+    </task>
+    <task id="LOCAL-00052" summary="面试复习">
+      <created>1515501177352</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1515501177352</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1162,11 +1131,11 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3362256" sideWeight="0.49786323" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31991294" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21309656" sideWeight="0.5053305" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28967813" sideWeight="0.5075107" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.4978678" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29565218" sideWeight="0.4946695" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2959739" sideWeight="0.48614073" order="6" side_tool="true" content_ui="tabs" x="23" y="410" width="1872" height="307" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28540772" sideWeight="0.49459043" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21309656" sideWeight="0.49248928" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21309656" sideWeight="0.49248928" order="6" side_tool="true" content_ui="tabs" x="23" y="410" width="1872" height="307" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29345495" sideWeight="0.49459043" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1201,7 +1170,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="实际案例" />
     <MESSAGE value="dfs&amp;bfs" />
     <MESSAGE value="try-except-else-finally" />
     <MESSAGE value="update readme.md" />
@@ -1226,7 +1194,8 @@
     <MESSAGE value="多线程模拟生产者消费者" />
     <MESSAGE value="多线程和多进程" />
     <MESSAGE value="装饰器函数的使用方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="装饰器函数的使用方法" />
+    <MESSAGE value="面试复习" />
+    <option name="LAST_COMMIT_MESSAGE" value="面试复习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1247,32 +1216,11 @@
           <option name="timeStamp" value="117" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="157" />
+      <option name="time" value="160" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/any-kw.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/HowToUseOjWithPy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/zhengze.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/orderdict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1544,18 +1492,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="1215">
           <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
           <folding>
-            <element signature="e#401#436#0" expanded="true" />
+            <element signature="e#401#436#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/斐波那契数列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1571,7 +1512,7 @@
         <state relative-caret-position="1323">
           <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
-            <element signature="e#371#399#0" expanded="true" />
+            <element signature="e#371#399#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1580,21 +1521,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="104" column="19" lean-forward="true" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/8-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="790">
-          <caret line="41" column="6" lean-forward="false" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/链表.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="324">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="22" selection-end-column="36" />
           <folding />
         </state>
@@ -1603,18 +1535,58 @@
     <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/quick_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/TopK.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="68" column="22" lean-forward="true" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+        <state relative-caret-position="304">
+          <caret line="71" column="24" lean-forward="false" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
           <folding>
-            <element signature="e#429#440#0" expanded="true" />
+            <element signature="e#429#440#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/补充缺失的代码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/斐波那契数列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/8-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/脑补结果.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
