@@ -82,6 +82,6 @@ if __name__ == '__main__':
 
         for downloadThread in downloadThreads:
             downloadThread.join()
-        print("Finished")
+        print page_name, "is Finished."
         print '-' * 50
         print ''
