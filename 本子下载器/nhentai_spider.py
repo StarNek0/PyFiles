@@ -15,6 +15,7 @@ import re
 import os
 import threading
 import time
+import urllib2
 import requests
 
 OUTPUT_DIR_NAME = u'本子'
@@ -32,24 +33,32 @@ def download_img(img_url, i, page_name, img_nums):
 
 if __name__ == '__main__':
     while True:
-        page_id = int(input('Please input id:'))
-        page_url = 'https://nhentai.net/g/%d/' % page_id
+        while True:  # 不至于输错就抛异常
+            try:
+                page_id = int(input('Please input id: '))
+                page_url = 'https://nhentai.net/g/%d/' % page_id
+            except Exception as e:
+                print e
+            else:
+                break
 
-        if not os.path.exists('nhentai.%s.txt' % page_id):  # 为这个页面缓存一下吧
+        # 创建存储目录
+        if not os.path.exists('Catchs'): os.mkdir('Catchs')
+        # 为这个页面缓存一下吧
+        if not os.path.exists('Catchs\\nhentai.%s.html' % page_id):
             print 'downloading page...'
-
             page = requests.get(page_url).text.encode('utf8')  # Unicode要转成utf8才能写入文件
-            with open('nhentai.%s.txt' % page_id, 'wb') as f:
-                f.write(page)
-
             print 'finished downloading page...'
+            with open('Catchs\\nhentai.%s.html' % page_id, 'wb') as f:
+                f.write(page)
         else:
-            with open('nhentai.%s.txt' % page_id, 'r') as f:
+            with open('Catchs\\nhentai.%s.html' % page_id, 'r') as f:
                 page = f.read()
 
-        page_name = '(%s)-' % page_id + re.search(pattern='<h2>(.+)</h2>', string=page).group(1).decode('utf8')  # 本子名
+        page_name = '%s - ' % page_id + re.search(pattern='<h2>(.+)</h2>', string=page).group(1).decode(
+            'utf8')  # 本子名&本子的目录名
         img_nums = len(re.findall(pattern='thumb-container', string=page))  # 这个本子多少张图片
-        img_id = re.search(pattern='galleries/(\d+)', string=page).group(1)  # 获取这个本子的唯一图片id标识
+        img_id = re.search(pattern='galleries/(\d+)', string=page).group(1)  # 这个本子所有图片唯一id标识
         img_url = 'https://i.nhentai.net/galleries/%s/' % img_id
 
         # 创建存储目录
@@ -75,3 +84,4 @@ if __name__ == '__main__':
             downloadThread.join()
         print("Finished")
         print '-' * 50
+        print ''
