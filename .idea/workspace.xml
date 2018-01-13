@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/本子下载器/nhentai_spider.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/爬某个网站.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/本子下载器/nhentai_spider.py" afterPath="$PROJECT_DIR$/本子下载器/nhentai_spider.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,6 +37,7 @@
     <SUITE FILE_PATH="coverage/PyFiles$url3.coverage" NAME="url3 Coverage Results" MODIFIED="1499152490939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
     <SUITE FILE_PATH="coverage/PyFiles$rwxml.coverage" NAME="rwxml Coverage Results" MODIFIED="1515118361231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
     <SUITE FILE_PATH="coverage/PyFiles$yield_isprime.coverage" NAME="yield_isprime Coverage Results" MODIFIED="1514725819143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂乱无章的文件都去这里" />
+    <SUITE FILE_PATH="coverage/PyFiles$nhentai_spider__1_.coverage" NAME="nhentai_spider (1) Coverage Results" MODIFIED="1515864457640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/本子下载器" />
     <SUITE FILE_PATH="coverage/PyFiles$calFib.coverage" NAME="calFib Coverage Results" MODIFIED="1495459096079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFiles$zhengze.coverage" NAME="zhengze Coverage Results" MODIFIED="1497015385552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFiles$t.coverage" NAME="t Coverage Results" MODIFIED="1511188757828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForPyBase" />
@@ -112,8 +112,8 @@
       <file leaf-file-name="nhentai_spider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/本子下载器/nhentai_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="486">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="e#415#424#0" expanded="true" />
               </folding>
@@ -170,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ForPyBase/5个很好的Python面试题.py" />
         <option value="$PROJECT_DIR$/ForPyBase/leetcode_537.py" />
         <option value="$PROJECT_DIR$/ForPyBase/3-2迭代器.py" />
         <option value="$PROJECT_DIR$/ForPyBase/t.py" />
@@ -221,6 +220,7 @@
         <option value="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/__init__.py" />
         <option value="$PROJECT_DIR$/杂乱无章的文件都去这里/爬某个网站.py" />
         <option value="$PROJECT_DIR$/本子爬取器/nhentai_spider.py" />
+        <option value="$PROJECT_DIR$/本子下载器/nhentai_spider.py" />
       </list>
     </option>
   </component>
@@ -304,7 +304,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -322,6 +321,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -361,26 +361,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nhentai_spider">
-    <configuration name="多进程水仙花数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/多进程水仙花数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.nhentai_spider (1)">
     <configuration name="爬某个网站" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -509,6 +490,25 @@
       <module name="pyfile" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="nhentai_spider (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/本子下载器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyfile" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/本子下载器/nhentai_spider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -732,19 +732,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.P89" />
-      <item index="1" class="java.lang.String" itemvalue="Python.多进程水仙花数" />
-      <item index="2" class="java.lang.String" itemvalue="Python.8-1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.__init__ (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.爬某个网站" />
-      <item index="5" class="java.lang.String" itemvalue="Python.nhentai_spider" />
+      <item index="1" class="java.lang.String" itemvalue="Python.8-1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.__init__ (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.爬某个网站" />
+      <item index="4" class="java.lang.String" itemvalue="Python.nhentai_spider" />
+      <item index="5" class="java.lang.String" itemvalue="Python.nhentai_spider (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.nhentai_spider" />
-        <item index="1" class="java.lang.String" itemvalue="Python.爬某个网站" />
-        <item index="2" class="java.lang.String" itemvalue="Python.__init__ (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.8-1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.多进程水仙花数" />
+        <item index="0" class="java.lang.String" itemvalue="Python.nhentai_spider (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.nhentai_spider" />
+        <item index="2" class="java.lang.String" itemvalue="Python.爬某个网站" />
+        <item index="3" class="java.lang.String" itemvalue="Python.__init__ (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.8-1" />
       </list>
     </recent_temporary>
   </component>
@@ -761,13 +761,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490100690662</updated>
-    </task>
-    <task id="LOCAL-00006" summary="使用了urlprase模块来创建绝对路径，当运行时，发现虽然下载没有出现错误，但是同样的页面总是被不断下载，因为地点之间相互存在链接">
-      <created>1496903255703</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1496903255703</updated>
     </task>
     <task id="LOCAL-00007" summary="现在，它能够为爬取过的页面添加标记，能够如期的停止，所以这是一个可用的爬虫">
       <created>1496903478326</created>
@@ -1105,7 +1098,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515859133128</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="嘛">
+      <created>1515863488256</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1515863488256</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1157,9 +1157,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31991294" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.4978678" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21309656" sideWeight="0.49248928" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28967813" sideWeight="0.5075107" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28967813" sideWeight="0.5075107" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21309656" sideWeight="0.49248928" order="6" side_tool="true" content_ui="tabs" x="23" y="410" width="1872" height="307" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30633047" sideWeight="0.49459043" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3106223" sideWeight="0.49459043" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1194,7 +1194,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dfs&amp;bfs" />
     <MESSAGE value="try-except-else-finally" />
     <MESSAGE value="update readme.md" />
     <MESSAGE value="HackerRank" />
@@ -1219,7 +1218,8 @@
     <MESSAGE value="多线程和多进程" />
     <MESSAGE value="装饰器函数的使用方法" />
     <MESSAGE value="面试复习" />
-    <option name="LAST_COMMIT_MESSAGE" value="面试复习" />
+    <MESSAGE value="嘛" />
+    <option name="LAST_COMMIT_MESSAGE" value="嘛" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1515,36 +1515,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/imgs/(C93) [P-POINT (Pikazo)] 朝潮とあそぼ！性的日記プンプン編 (艦隊これくしょん -艦これ-)/12.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/imgs/(C93) [P-POINT (Pikazo)] 朝潮とあそぼ！性的日記プンプン編 (艦隊これくしょん -艦これ-)/25.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/imgs/(C93) [P-POINT (Pikazo)] 朝潮とあそぼ！性的日記プンプン編 (艦隊これくしょん -艦これ-)/0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/imgs/(C93) [P-POINT (Pikazo)] 朝潮とあそぼ！性的日記プンプン編 (艦隊これくしょん -艦これ-)/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/imgs/(C93) [P-POINT (Pikazo)] 朝潮とあそぼ！性的日記プンプン編 (艦隊これくしょん -艦これ-)/14.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/imgs/(C93) [P-POINT (Pikazo)] 朝潮とあそぼ！性的日記プンプン編 (艦隊これくしょん -艦これ-)/12.jpg" />
+    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/imgs/(C93) [P-POINT (Pikazo)] 朝潮とあそぼ！性的日記プンプン編 (艦隊これくしょん -艦これ-)/25.jpg" />
+    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/imgs/(C93) [P-POINT (Pikazo)] 朝潮とあそぼ！性的日記プンプン編 (艦隊これくしょん -艦これ-)/0.jpg" />
+    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/imgs/(C93) [P-POINT (Pikazo)] 朝潮とあそぼ！性的日記プンプン編 (艦隊これくしょん -艦これ-)/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/imgs/(C93) [P-POINT (Pikazo)] 朝潮とあそぼ！性的日記プンプン編 (艦隊これくしょん -艦これ-)/14.jpg" />
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1552,23 +1531,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-38">
           <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/nhentai.220461.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/杂乱无章的文件都去这里/nhentai.220461.txt" />
     <entry file="file://C:/Python27/Lib/encodings/utf_8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1576,14 +1546,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/本子下载器/nhentai_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="486">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="e#415#424#0" expanded="true" />
           </folding>
