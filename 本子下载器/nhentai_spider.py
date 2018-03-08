@@ -6,8 +6,8 @@
     Date:   2018/1/13 22:23
     Sys:    Windows 10
 --------------------------------------------------------------------------
-    Desc:   嘛，就是一个本子网站的下载器
-            In:本子id
+    Desc:   嘛，就是一个漫画网站的下载器
+            In:漫画id
             Out:IO
 --------------------------------------------------------------------------
 """
@@ -15,10 +15,9 @@ import re
 import os
 import threading
 import time
-import urllib2
 import requests
 
-OUTPUT_DIR_NAME = u'本子'
+OUTPUT_DIR_NAME = u'漫画'
 
 
 # 下载图片存到本地
@@ -56,9 +55,9 @@ if __name__ == '__main__':
                 page = f.read()
 
         page_name = '%s - ' % page_id + re.search(pattern='<h2>(.+)</h2>', string=page).group(1).decode(
-            'utf8')  # 本子名&本子的目录名
-        img_nums = len(re.findall(pattern='thumb-container', string=page))  # 这个本子多少张图片
-        img_id = re.search(pattern='galleries/(\d+)', string=page).group(1)  # 这个本子所有图片唯一id标识
+            'utf8')  # 漫画名&漫画的目录名
+        img_nums = len(re.findall(pattern='thumb-container', string=page))  # 这个漫画多少张图片
+        img_id = re.search(pattern='galleries/(\d+)', string=page).group(1)  # 这个漫画所有图片唯一id标识
         img_url = 'https://i.nhentai.net/galleries/%s/' % img_id
 
         # 创建存储目录
