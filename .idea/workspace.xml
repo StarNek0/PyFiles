@@ -48,7 +48,7 @@
     <SUITE FILE_PATH="coverage/PyFiles$WellCrawling.coverage" NAME="WellCrawling Coverage Results" MODIFIED="1496898227161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
     <SUITE FILE_PATH="coverage/PyFiles$List.coverage" NAME="List Coverage Results" MODIFIED="1498230049657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
     <SUITE FILE_PATH="coverage/PyFiles$demo_xlsx.coverage" NAME="为的demo.xlsx统计总成绩 Coverage Results" MODIFIED="1515080782801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
-    <SUITE FILE_PATH="coverage/PyFiles$click_zan.coverage" NAME="click_zan Coverage Results" MODIFIED="1520917560641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂乱无章的文件都去这里" />
+    <SUITE FILE_PATH="coverage/PyFiles$click_zan.coverage" NAME="click_zan Coverage Results" MODIFIED="1520917939581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂乱无章的文件都去这里" />
     <SUITE FILE_PATH="coverage/PyFiles$LinkCrawling.coverage" NAME="LinkCrawling Coverage Results" MODIFIED="1497015967795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
     <SUITE FILE_PATH="coverage/PyFiles$rere.coverage" NAME="rere Coverage Results" MODIFIED="1499148715681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
     <SUITE FILE_PATH="coverage/PyFiles$5_6_7.coverage" NAME="5&amp;6&amp;7 Coverage Results" MODIFIED="1493271923733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
@@ -117,8 +117,8 @@
       <file leaf-file-name="click_zan.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/click_zan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="664">
+              <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding>
                 <element signature="e#357#372#0" expanded="true" />
               </folding>
@@ -724,13 +724,6 @@
       <option name="presentableId" value="Default" />
       <updated>1490100690662</updated>
     </task>
-    <task id="LOCAL-00012" summary="实际案例">
-      <created>1497853406626</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1497853406626</updated>
-    </task>
     <task id="LOCAL-00013" summary="dfs&amp;bfs">
       <created>1497952745596</created>
       <option name="number" value="00013" />
@@ -1067,7 +1060,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520916326865</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="更健壮">
+      <created>1520917781005</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1520917781005</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1156,7 +1156,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HackerRank" />
     <MESSAGE value="快排。。" />
     <MESSAGE value="。" />
     <MESSAGE value="pythonic求质数" />
@@ -1181,7 +1180,8 @@
     <MESSAGE value="嘛" />
     <MESSAGE value="购物党笔试" />
     <MESSAGE value="click zan" />
-    <option name="LAST_COMMIT_MESSAGE" value="click zan" />
+    <MESSAGE value="更健壮" />
+    <option name="LAST_COMMIT_MESSAGE" value="更健壮" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1513,8 +1513,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/click_zan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="664">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding>
             <element signature="e#357#372#0" expanded="true" />
           </folding>

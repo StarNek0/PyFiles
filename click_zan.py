@@ -27,3 +27,5 @@ while True:
         num += 1
     except Exception as e:
         print u'\n********Click failed.Cause', e
+        print u'if failed too much, please call the author.'
+        time.sleep(2)
