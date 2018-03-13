@@ -11,15 +11,19 @@
 """
 import requests
 import time
-from random import randint
 
 url = u'http://www.8diandang.com:8080/api/Audiofrequency/audiofrequencyupdate?id=1418'
 num = 1
+
 while True:
-    if num % 300 == 0:
-        time.sleep(3)
-    num += 1
-    print num,
-    page = requests.get(url)
-    print page.text
-    # time.sleep(0.5)   17s 100赞
+    if num % 100 == 0:
+        print u'wait for 1s...'
+        time.sleep(1)
+
+    try:
+        print u'click times:', num, u', message',
+        page = requests.get(url)
+        print page.text
+        num += 1
+    except Exception as e:
+        print u'\n********Click failed.Cause', e
