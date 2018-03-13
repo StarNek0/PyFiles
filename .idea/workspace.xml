@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/gwdang_exam/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gwdang_exam/exam_JD.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gwdang_exam/exam_sort.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gwdang_exam/exam_txt_to_dict.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/click_zan.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/本子下载器/nhentai_spider.py" afterPath="$PROJECT_DIR$/本子下载器/nhentai_spider.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,6 +48,7 @@
     <SUITE FILE_PATH="coverage/PyFiles$WellCrawling.coverage" NAME="WellCrawling Coverage Results" MODIFIED="1496898227161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
     <SUITE FILE_PATH="coverage/PyFiles$List.coverage" NAME="List Coverage Results" MODIFIED="1498230049657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
     <SUITE FILE_PATH="coverage/PyFiles$demo_xlsx.coverage" NAME="为的demo.xlsx统计总成绩 Coverage Results" MODIFIED="1515080782801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
+    <SUITE FILE_PATH="coverage/PyFiles$click_zan.coverage" NAME="click_zan Coverage Results" MODIFIED="1520915996217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂乱无章的文件都去这里" />
     <SUITE FILE_PATH="coverage/PyFiles$LinkCrawling.coverage" NAME="LinkCrawling Coverage Results" MODIFIED="1497015967795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
     <SUITE FILE_PATH="coverage/PyFiles$rere.coverage" NAME="rere Coverage Results" MODIFIED="1499148715681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
     <SUITE FILE_PATH="coverage/PyFiles$5_6_7.coverage" NAME="5&amp;6&amp;7 Coverage Results" MODIFIED="1493271923733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
@@ -93,6 +90,7 @@
     <SUITE FILE_PATH="coverage/PyFiles$EightQueens.coverage" NAME="EightQueens Coverage Results" MODIFIED="1494898118719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
     <SUITE FILE_PATH="coverage/PyFiles$5Python.coverage" NAME="5个很好的Python面试题 Coverage Results" MODIFIED="1511100990004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForPyBase" />
     <SUITE FILE_PATH="coverage/PyFiles$P567.coverage" NAME="P567 Coverage Results" MODIFIED="1493280276855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
+    <SUITE FILE_PATH="coverage/PyFiles$exam_sort.coverage" NAME="exam_sort Coverage Results" MODIFIED="1520767957436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
     <SUITE FILE_PATH="coverage/PyFiles$urlimg.coverage" NAME="urlimg Coverage Results" MODIFIED="1493204544015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFiles$5_5.coverage" NAME="5-5访问文件状态 Coverage Results" MODIFIED="1515070509434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy" />
     <SUITE FILE_PATH="coverage/PyFiles$7_1.coverage" NAME="7-1 Coverage Results" MODIFIED="1515140207517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
@@ -115,7 +113,20 @@
     <favorites_list name="PyFiles" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="click_zan.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/click_zan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <element signature="e#357#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -166,7 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/求职相关技术" />
         <option value="$PROJECT_DIR$/Python求职" />
         <option value="$PROJECT_DIR$/Python求职.md" />
         <option value="$PROJECT_DIR$/杂乱无章的文件都去这里/yield_isprime.py" />
@@ -217,6 +227,7 @@
         <option value="$PROJECT_DIR$/gwdang_exam/exam.py" />
         <option value="$PROJECT_DIR$/gwdang_exam/sort.py" />
         <option value="$PROJECT_DIR$/gwdang_exam/exam_txt_to_dict.py" />
+        <option value="$PROJECT_DIR$/杂乱无章的文件都去这里/click_zan.py" />
       </list>
     </option>
   </component>
@@ -300,6 +311,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,17 +319,11 @@
               <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
-              <item name="gwdang_exam" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -330,19 +336,19 @@
     <property name="SearchEverywhereHistoryKey" value="pow&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python_Projects\PyFiles" />
+      <recent name="D:\Python_Projects\PyFiles\本子爬取器" />
+      <recent name="D:\Python_Projects\PyFiles\关于Python求职收集整理的资料\Code" />
+      <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy\Chapter8装饰器" />
+      <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy\Chapter5文件处理" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python_Projects\PyFiles\关于Python求职收集整理的资料" />
       <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy\Python读写取各个类型的文件专题(csv,xml,json,xls)" />
       <recent name="D:\Python_Projects\PyFiles" />
       <recent name="E:\PyFiles\Course-Scrapy\Chapter3-RegEx&amp;dfs&amp;bfs" />
       <recent name="E:\PyFiles\Book-WebScrapingWIthPython\Chapter1-Crawling" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Python_Projects\PyFiles\本子爬取器" />
-      <recent name="D:\Python_Projects\PyFiles\关于Python求职收集整理的资料\Code" />
-      <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy\Chapter8装饰器" />
-      <recent name="D:\Python_Projects\PyFiles\Course-SeniorPy\Chapter5文件处理" />
-      <recent name="D:\Python_Projects\PyFiles\杂乱无章的文件都去这里" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -357,45 +363,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exam_txt_to_dict">
-    <configuration name="补充缺失的代码" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/关于Python求职收集整理的资料/Code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/补充缺失的代码.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="脑补结果" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/关于Python求职收集整理的资料/Code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/关于Python求职收集整理的资料/Code/脑补结果.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.click_zan">
     <configuration name="斐波那契数列" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -415,6 +383,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="click_zan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/杂乱无章的文件都去这里" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyfile" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python_Projects\PyFiles\click_zan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="exam" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -429,6 +416,25 @@
       <module name="pyfile" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="D:\Python_Projects\PyFiles\gwdang_exam\exam_JD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="exam_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gwdang_exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyfile" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gwdang_exam/exam_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -689,15 +695,15 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.nhentai_spider" />
-      <item index="1" class="java.lang.String" itemvalue="Python.补充缺失的代码" />
+      <item index="0" class="java.lang.String" itemvalue="Python.斐波那契数列" />
+      <item index="1" class="java.lang.String" itemvalue="Python.nhentai_spider" />
       <item index="2" class="java.lang.String" itemvalue="Python.exam" />
       <item index="3" class="java.lang.String" itemvalue="Python.sort" />
-      <item index="4" class="java.lang.String" itemvalue="Python.exam_txt_to_dict" />
+      <item index="4" class="java.lang.String" itemvalue="Python.click_zan" />
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.exam_txt_to_dict" />
+        <item index="0" class="java.lang.String" itemvalue="Python.click_zan" />
         <item index="1" class="java.lang.String" itemvalue="Python.sort" />
         <item index="2" class="java.lang.String" itemvalue="Python.exam" />
         <item index="3" class="java.lang.String" itemvalue="Python.nhentai_spider" />
@@ -717,13 +723,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490100690662</updated>
-    </task>
-    <task id="LOCAL-00010" summary="word: .*()?&#10;function: match, group">
-      <created>1497845143383</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1497845143383</updated>
     </task>
     <task id="LOCAL-00011" summary="word: +{}[][^][a-z]  \s是空格的意思 \w \S \W">
       <created>1497849570950</created>
@@ -1061,7 +1060,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515868364944</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="购物党笔试">
+      <created>1520509205601</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1520509205603</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1107,6 +1113,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3362256" sideWeight="0.49786323" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31991294" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -1114,7 +1121,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21309656" sideWeight="0.49248928" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28967813" sideWeight="0.50536484" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28967813" sideWeight="0.4946352" order="6" side_tool="true" content_ui="tabs" x="23" y="410" width="1872" height="307" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18293992" sideWeight="0.49459043" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19366953" sideWeight="0.49459043" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1149,7 +1156,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="try-except-else-finally" />
     <MESSAGE value="update readme.md" />
     <MESSAGE value="HackerRank" />
     <MESSAGE value="快排。。" />
@@ -1174,7 +1180,8 @@
     <MESSAGE value="装饰器函数的使用方法" />
     <MESSAGE value="面试复习" />
     <MESSAGE value="嘛" />
-    <option name="LAST_COMMIT_MESSAGE" value="嘛" />
+    <MESSAGE value="购物党笔试" />
+    <option name="LAST_COMMIT_MESSAGE" value="购物党笔试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1200,13 +1207,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter6Python读写取各个类型的文件专题(csv,xml,json,xls)/为的demo.xlsx统计总成绩.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter6Python读写取各个类型的文件专题(csv,xml,json,xls)/RWxlsx.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1473,7 +1473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1481,17 +1480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="381" column="0" lean-forward="false" selection-start-line="381" selection-start-column="0" selection-end-line="381" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwdang_exam/exam_JD.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-          <folding>
-            <element signature="e#351#366#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1499,23 +1487,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="501">
           <caret line="79" column="37" lean-forward="false" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwdang_exam/exam_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gwdang_exam/exam_txt_to_dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
+        <state relative-caret-position="637">
           <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwdang_exam/exam_JD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwdang_exam/exam_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/click_zan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="e#357#372#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
