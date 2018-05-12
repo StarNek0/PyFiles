@@ -80,7 +80,7 @@ if __name__ == '__main__':
         downloadThreads = []  # 线程池
         for i in range(img_nums):  # 为每个图片都创建个线程
             time.sleep(0.2)  # 为了防止爬虫被网站ban
-            downloadThread = threading.Thread(target=download_img, args=(img_urls[i], i + 1, page_name, img_nums))
+            downloadThread = threading.Thread(target=download_img, args=(img_urls[i], i + 1, page_name, img_nums, model_of_image))
             downloadThreads.append(downloadThread)
             downloadThread.start()
 

@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b.py" beforeDir="false" afterPath="$PROJECT_DIR$/b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/漫画下载器/nhentai_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/漫画下载器/nhentai_spider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,7 +92,7 @@
     <SUITE FILE_PATH="coverage/PyFiles$ejzqh.coverage" NAME="ejzqh Coverage Results" MODIFIED="1495019046855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
     <SUITE FILE_PATH="coverage/PyFiles$exam_sort.coverage" NAME="exam_sort Coverage Results" MODIFIED="1520767957436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
     <SUITE FILE_PATH="coverage/PyFiles$EightQueens.coverage" NAME="EightQueens Coverage Results" MODIFIED="1494898118719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
-    <SUITE FILE_PATH="coverage/PyFiles$nhentai_spider.coverage" NAME="nhentai_spider Coverage Results" MODIFIED="1515868096703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/本子下载器" />
+    <SUITE FILE_PATH="coverage/PyFiles$nhentai_spider.coverage" NAME="nhentai_spider Coverage Results" MODIFIED="1526126784251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/漫画下载器" />
     <SUITE FILE_PATH="coverage/PyFiles$8_9_Exception_magic.coverage" NAME="8&amp;9-Exception&amp;magic Coverage Results" MODIFIED="1493271342044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
     <SUITE FILE_PATH="coverage/PyFiles$url3.coverage" NAME="url3 Coverage Results" MODIFIED="1499152490939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
     <SUITE FILE_PATH="coverage/PyFiles$url.coverage" NAME="url Coverage Results" MODIFIED="1499152694920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
@@ -131,8 +129,8 @@
       <file leaf-file-name="nhentai_spider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/漫画下载器/nhentai_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="324">
+              <caret line="67" column="64" lean-forward="true" selection-start-line="67" selection-start-column="64" selection-end-line="67" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -170,6 +168,7 @@
       <find>439667138</find>
       <find>&quot;productName&quot;:&quot;(.+?)&quot;</find>
       <find>jpg</find>
+      <find>galleries/(\d+)</find>
     </findStrings>
     <replaceStrings>
       <replace>next_Y</replace>
@@ -333,6 +332,18 @@
               <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
               <item name="漫画下载器" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="漫画下载器" type="462c0819:PsiDirectoryNode" />
+              <item name="Catchs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="漫画下载器" type="462c0819:PsiDirectoryNode" />
+              <item name="漫画" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -377,7 +388,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.a">
+  <component name="RunManager" selected="Python.nhentai_spider">
     <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyfile" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -416,25 +427,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="click_zan" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyfile" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/杂乱无章的文件都去这里" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Python_Projects\PyFiles\click_zan.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="exam_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyfile" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -468,6 +460,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gwdang_exam/exam_txt_to_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="nhentai_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyfile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/漫画下载器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/漫画下载器/nhentai_spider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -706,19 +717,18 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.click_zan" />
+      <item itemvalue="Python.exam_txt_to_dict" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.vip" />
       <item itemvalue="Python.a" />
-      <item itemvalue="Python.b" />
+      <item itemvalue="Python.nhentai_spider" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.nhentai_spider" />
         <item itemvalue="Python.a" />
-        <item itemvalue="Python.b" />
         <item itemvalue="Python.vip" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.click_zan" />
       </list>
     </recent_temporary>
   </component>
@@ -732,13 +742,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490100690662</updated>
-    </task>
-    <task id="LOCAL-00014" summary="try-except-else-finally">
-      <created>1497999505710</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1497999505710</updated>
     </task>
     <task id="LOCAL-00016" summary="HackerRank">
       <created>1498231462598</created>
@@ -1076,7 +1079,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521725001272</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="更健壮">
+      <created>1526126695251</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1526126695252</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1129,9 +1139,9 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4978678" weight="0.32861805" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49248928" side_tool="true" weight="0.21309656" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5005365" weight="0.29522753" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5005365" visible="true" weight="0.29522753" />
       <window_info anchor="bottom" x="23" y="410" width="1872" height="307" id="Terminal" order="6" sideWeight="0.4946352" side_tool="true" weight="0.28967813" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49459043" visible="true" weight="0.21244635" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49459043" visible="true" weight="0.2054721" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32942432" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -1221,15 +1231,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/类啊/class4-4.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/类啊/class4-5.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/类啊/class4-3.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/url去重策略.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1515,10 +1516,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/漫画下载器/漫画/202122 - (C84) [直道館 (MARCYどっぐ、ホルモン恋次郎)] 速球通信 C84 (よろず)/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/漫画下载器/漫画/202122 - (C84) [直道館 (MARCYどっぐ、ホルモン恋次郎)] 速球通信 C84 (よろず)/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/漫画下载器/Catchs/nhentai.202122.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/漫画下载器/nhentai_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="324">
+          <caret line="67" column="64" lean-forward="true" selection-start-line="67" selection-start-column="64" selection-end-line="67" selection-end-column="64" />
         </state>
       </provider>
     </entry>
