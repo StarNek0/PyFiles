@@ -9,9 +9,9 @@
     Desc:   美团后台笔试第二题
 --------------------------------------------------------------------------
 """
+import copy
 
-
-s = '0123456789'*100
+s = '012456789'+'012345678'+'012456789'
 
 s = ''.join(sorted(s))
 l_s = list(s)
@@ -19,11 +19,12 @@ flag = 0
 i = 1
 while True:
     # print list(str(i))
+    ll_s=copy.copy(l_s)
     for x in list(str(i)):
-        if x in l_s:
-            l_s.remove(x)
+        if x in ll_s:
+            ll_s.remove(x)
         else:
-            print l_s
+            print ll_s
             print i
             flag = 1
     if flag:

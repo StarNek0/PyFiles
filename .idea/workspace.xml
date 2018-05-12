@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/a.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/b.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gwdang_exam/logitech.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gwdang_exam/vip.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/本子下载器/nhentai_spider.py" afterPath="$PROJECT_DIR$/漫画下载器/nhentai_spider.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/5个很好的Python面试题.py" afterPath="$PROJECT_DIR$/其他文件/5个很好的Python面试题.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/HowToUseOjWithPy.py" afterPath="$PROJECT_DIR$/其他文件/HowToUseOjWithPy.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/__init__.py" afterPath="$PROJECT_DIR$/其他文件/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/any-kw.py" afterPath="$PROJECT_DIR$/其他文件/any-kw.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/calFib.py" afterPath="$PROJECT_DIR$/其他文件/calFib.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/ootest.py" afterPath="$PROJECT_DIR$/其他文件/ootest.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/orderdict.py" afterPath="$PROJECT_DIR$/其他文件/orderdict.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/poww.py" afterPath="$PROJECT_DIR$/其他文件/poww.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/road.py" afterPath="$PROJECT_DIR$/其他文件/road.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/scrapy.py" afterPath="$PROJECT_DIR$/其他文件/scrapy.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/shiyanlou.py" afterPath="$PROJECT_DIR$/其他文件/shiyanlou.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/test.py" afterPath="$PROJECT_DIR$/其他文件/test.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/test_future.py" afterPath="$PROJECT_DIR$/其他文件/test_future.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/test_my_url.py" afterPath="$PROJECT_DIR$/其他文件/test_my_url.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/urlimg.py" afterPath="$PROJECT_DIR$/其他文件/urlimg.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/yield_isprime.py" afterPath="$PROJECT_DIR$/其他文件/yield_isprime.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/zhengze.py" afterPath="$PROJECT_DIR$/其他文件/zhengze.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/zhishu-pythonic.py" afterPath="$PROJECT_DIR$/其他文件/zhishu-pythonic.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/zhishu.c" afterPath="$PROJECT_DIR$/其他文件/zhishu.c" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/zhishu.py" afterPath="$PROJECT_DIR$/其他文件/zhishu.py" />
-      <change beforePath="$PROJECT_DIR$/杂乱无章的文件都去这里/有理数四则运算.py" afterPath="$PROJECT_DIR$/其他文件/有理数四则运算.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b.py" beforeDir="false" afterPath="$PROJECT_DIR$/b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/漫画下载器/nhentai_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/漫画下载器/nhentai_spider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,90 +15,90 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PyFiles$tsTclnt.coverage" NAME="tsTclnt Coverage Results" MODIFIED="1495507499977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookCorePython/Chapter2" />
-    <SUITE FILE_PATH="coverage/PyFiles$vip.coverage" NAME="vip Coverage Results" MODIFIED="1520942167697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
-    <SUITE FILE_PATH="coverage/PyFiles$nhentai_spider.coverage" NAME="nhentai_spider Coverage Results" MODIFIED="1515868096703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/本子下载器" />
-    <SUITE FILE_PATH="coverage/PyFiles$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1515398693295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程" />
-    <SUITE FILE_PATH="coverage/PyFiles$7_2.coverage" NAME="7-2 Coverage Results" MODIFIED="1515142262119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
     <SUITE FILE_PATH="coverage/PyFiles$IDCrawling.coverage" NAME="IDCrawling Coverage Results" MODIFIED="1496996207108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
-    <SUITE FILE_PATH="coverage/PyFiles$readcsv.coverage" NAME="readcsv Coverage Results" MODIFIED="1515073638394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
-    <SUITE FILE_PATH="coverage/PyFiles$8_6.coverage" NAME="8-6 Coverage Results" MODIFIED="1515397537078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程" />
-    <SUITE FILE_PATH="coverage/PyFiles$Tuples.coverage" NAME="Tuples Coverage Results" MODIFIED="1498231125080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
-    <SUITE FILE_PATH="coverage/PyFiles$lbcrpx.coverage" NAME="lbcrpx Coverage Results" MODIFIED="1495097798493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
-    <SUITE FILE_PATH="coverage/PyFiles$Palindrome_Number.coverage" NAME="Palindrome Number Coverage Results" MODIFIED="1495013674251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
-    <SUITE FILE_PATH="coverage/PyFiles$exam.coverage" NAME="exam Coverage Results" MODIFIED="1520490994090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
-    <SUITE FILE_PATH="coverage/PyFiles$Unittests_in_P89_py.coverage" NAME="Unittests in P89.py Coverage Results" MODIFIED="1493530073311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/" />
-    <SUITE FILE_PATH="coverage/PyFiles$er2.coverage" NAME="er2 Coverage Results" MODIFIED="1498035701425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$with.coverage" NAME="with Coverage Results" MODIFIED="1498042621882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$Unittests_in_test_my_url_py.coverage" NAME="Unittests in test_my_url.py Coverage Results" MODIFIED="1498809798887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$Unittests_for_TestCase.coverage" NAME="Unittests for TestCase Coverage Results" MODIFIED="1493279664825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/" />
-    <SUITE FILE_PATH="coverage/PyFiles$hws.coverage" NAME="hws Coverage Results" MODIFIED="1495013672470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
-    <SUITE FILE_PATH="coverage/PyFiles$load_dump_json.coverage" NAME="load_dump_json Coverage Results" MODIFIED="1515075570024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
-    <SUITE FILE_PATH="coverage/PyFiles$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1498792781374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$Unittests_for_TestCase___init__.coverage" NAME="Unittests for TestCase.__init__ Coverage Results" MODIFIED="1493279112037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/" />
-    <SUITE FILE_PATH="coverage/PyFiles$any_kw.coverage" NAME="any-kw Coverage Results" MODIFIED="1495458637382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$7_5.coverage" NAME="7-5 Coverage Results" MODIFIED="1515152861183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
-    <SUITE FILE_PATH="coverage/PyFiles$url3.coverage" NAME="url3 Coverage Results" MODIFIED="1499152490939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
-    <SUITE FILE_PATH="coverage/PyFiles$rwxml.coverage" NAME="rwxml Coverage Results" MODIFIED="1515118361231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
-    <SUITE FILE_PATH="coverage/PyFiles$b.coverage" NAME="b Coverage Results" MODIFIED="1521724905768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$yield_isprime.coverage" NAME="yield_isprime Coverage Results" MODIFIED="1514725819143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂乱无章的文件都去这里" />
+    <SUITE FILE_PATH="coverage/PyFiles$7_6.coverage" NAME="7-6 Coverage Results" MODIFIED="1515278224991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
     <SUITE FILE_PATH="coverage/PyFiles$nhentai_spider__1_.coverage" NAME="nhentai_spider (1) Coverage Results" MODIFIED="1515865621926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/本子下载器" />
-    <SUITE FILE_PATH="coverage/PyFiles$calFib.coverage" NAME="calFib Coverage Results" MODIFIED="1495459096079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$zhengze.coverage" NAME="zhengze Coverage Results" MODIFIED="1497015385552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$t.coverage" NAME="t Coverage Results" MODIFIED="1511188757828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForPyBase" />
-    <SUITE FILE_PATH="coverage/PyFiles$7_3.coverage" NAME="7-3 Coverage Results" MODIFIED="1515143578722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
-    <SUITE FILE_PATH="coverage/PyFiles$BasicURLCrawlingCode.coverage" NAME="BasicURLCrawlingCode Coverage Results" MODIFIED="1496996116662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
-    <SUITE FILE_PATH="coverage/PyFiles$exam_txt_to_dict.coverage" NAME="exam_txt_to_dict Coverage Results" MODIFIED="1520496439426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
-    <SUITE FILE_PATH="coverage/PyFiles$WellCrawling.coverage" NAME="WellCrawling Coverage Results" MODIFIED="1496898227161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
-    <SUITE FILE_PATH="coverage/PyFiles$List.coverage" NAME="List Coverage Results" MODIFIED="1498230049657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
-    <SUITE FILE_PATH="coverage/PyFiles$demo_xlsx.coverage" NAME="为的demo.xlsx统计总成绩 Coverage Results" MODIFIED="1515080782801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
-    <SUITE FILE_PATH="coverage/PyFiles$click_zan.coverage" NAME="click_zan Coverage Results" MODIFIED="1520917939581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂乱无章的文件都去这里" />
-    <SUITE FILE_PATH="coverage/PyFiles$LinkCrawling.coverage" NAME="LinkCrawling Coverage Results" MODIFIED="1497015967795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
-    <SUITE FILE_PATH="coverage/PyFiles$rere.coverage" NAME="rere Coverage Results" MODIFIED="1499148715681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
-    <SUITE FILE_PATH="coverage/PyFiles$5_6_7.coverage" NAME="5&amp;6&amp;7 Coverage Results" MODIFIED="1493271923733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
-    <SUITE FILE_PATH="coverage/PyFiles$test_my_url.coverage" NAME="test_my_url Coverage Results" MODIFIED="1498809870160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$mmgpdzjsj2.coverage" NAME="mmgpdzjsj2 Coverage Results" MODIFIED="1495095452785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
-    <SUITE FILE_PATH="coverage/PyFiles$Chapter1.coverage" NAME="Chapter1 Coverage Results" MODIFIED="1494898386119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookCorePython" />
-    <SUITE FILE_PATH="coverage/PyFiles$ejzqh.coverage" NAME="ejzqh Coverage Results" MODIFIED="1495019046855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
-    <SUITE FILE_PATH="coverage/PyFiles$a.coverage" NAME="a Coverage Results" MODIFIED="1521723296782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$tsTserv.coverage" NAME="tsTserv Coverage Results" MODIFIED="1495507497019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookCorePython/Chapter2" />
-    <SUITE FILE_PATH="coverage/PyFiles$url1.coverage" NAME="url1 Coverage Results" MODIFIED="1499148745054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
-    <SUITE FILE_PATH="coverage/PyFiles$leetcode_400.coverage" NAME="leetcode_400 Coverage Results" MODIFIED="1511190334300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForPyBase" />
     <SUITE FILE_PATH="coverage/PyFiles$ootest.coverage" NAME="ootest Coverage Results" MODIFIED="1493204519447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$zhishu_pythonic.coverage" NAME="zhishu-pythonic Coverage Results" MODIFIED="1503219364807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$RWxlsx.coverage" NAME="RWxlsx Coverage Results" MODIFIED="1515078784647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
-    <SUITE FILE_PATH="coverage/PyFiles$leetcode_537.coverage" NAME="leetcode_537 Coverage Results" MODIFIED="1511104603032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForPyBase" />
-    <SUITE FILE_PATH="coverage/PyFiles$__1_.coverage" NAME="回文数 (1) Coverage Results" MODIFIED="1495013416759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
-    <SUITE FILE_PATH="coverage/PyFiles$mmgpdzjsj.coverage" NAME="mmgpdzjsj Coverage Results" MODIFIED="1495019195952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
-    <SUITE FILE_PATH="coverage/PyFiles$3_2.coverage" NAME="3-2迭代器 Coverage Results" MODIFIED="1511106805863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForPyBase" />
-    <SUITE FILE_PATH="coverage/PyFiles$P89.coverage" NAME="P89 Coverage Results" MODIFIED="1493559480813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
-    <SUITE FILE_PATH="coverage/PyFiles$8_9_Exception_magic.coverage" NAME="8&amp;9-Exception&amp;magic Coverage Results" MODIFIED="1493271342044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
-    <SUITE FILE_PATH="coverage/PyFiles$url.coverage" NAME="url Coverage Results" MODIFIED="1499152694920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
-    <SUITE FILE_PATH="coverage/PyFiles$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1515771271420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器" />
-    <SUITE FILE_PATH="coverage/PyFiles$test_future.coverage" NAME="test_future Coverage Results" MODIFIED="1511095040917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$er.coverage" NAME="er Coverage Results" MODIFIED="1497999114585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$.coverage" NAME="爬某个网站 Coverage Results" MODIFIED="1515860953140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂乱无章的文件都去这里" />
-    <SUITE FILE_PATH="coverage/PyFiles$test_insert_updata_delect.coverage" NAME="test_insert&amp;updata&amp;delect Coverage Results" MODIFIED="1499050771208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SqlDbWays" />
+    <SUITE FILE_PATH="coverage/PyFiles$readcsv.coverage" NAME="readcsv Coverage Results" MODIFIED="1515073638394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
+    <SUITE FILE_PATH="coverage/PyFiles$mmgpdzjsj2.coverage" NAME="mmgpdzjsj2 Coverage Results" MODIFIED="1495095452785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
+    <SUITE FILE_PATH="coverage/PyFiles$tsTclnt.coverage" NAME="tsTclnt Coverage Results" MODIFIED="1495507499977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookCorePython/Chapter2" />
+    <SUITE FILE_PATH="coverage/PyFiles$7_3.coverage" NAME="7-3 Coverage Results" MODIFIED="1515143578722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
+    <SUITE FILE_PATH="coverage/PyFiles$8_1.coverage" NAME="8-1 Coverage Results" MODIFIED="1515404676760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器" />
+    <SUITE FILE_PATH="coverage/PyFiles$Unittests_for_TestCase___init__.coverage" NAME="Unittests for TestCase.__init__ Coverage Results" MODIFIED="1493279112037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/" />
     <SUITE FILE_PATH="coverage/PyFiles$poww.coverage" NAME="poww Coverage Results" MODIFIED="1499834512055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFiles$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1515081215332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
-    <SUITE FILE_PATH="coverage/PyFiles$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1497843485297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx" />
-    <SUITE FILE_PATH="coverage/PyFiles$7_6.coverage" NAME="7-6 Coverage Results" MODIFIED="1515278224991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
-    <SUITE FILE_PATH="coverage/PyFiles$test.coverage" NAME="test Coverage Results" MODIFIED="1520939752868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
-    <SUITE FILE_PATH="coverage/PyFiles$test_connection.coverage" NAME="test_connection Coverage Results" MODIFIED="1499045917010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SqlDbWays" />
-    <SUITE FILE_PATH="coverage/PyFiles$Unittests_in_test_connection_py.coverage" NAME="Unittests in test_connection.py Coverage Results" MODIFIED="1499045902147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SqlDbWays" />
-    <SUITE FILE_PATH="coverage/PyFiles$Two_Sum.coverage" NAME="Two Sum Coverage Results" MODIFIED="1495015047168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
-    <SUITE FILE_PATH="coverage/PyFiles$Unittests_in_PyFiles.coverage" NAME="Unittests in PyFiles Coverage Results" MODIFIED="1493557337087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$8_1.coverage" NAME="8-1 Coverage Results" MODIFIED="1515404676760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器" />
-    <SUITE FILE_PATH="coverage/PyFiles$sort.coverage" NAME="sort Coverage Results" MODIFIED="1520493738149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
-    <SUITE FILE_PATH="coverage/PyFiles$7_7.coverage" NAME="7-7 Coverage Results" MODIFIED="1515283639503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
+    <SUITE FILE_PATH="coverage/PyFiles$RWxlsx.coverage" NAME="RWxlsx Coverage Results" MODIFIED="1515078784647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
+    <SUITE FILE_PATH="coverage/PyFiles$exam.coverage" NAME="exam Coverage Results" MODIFIED="1520490994090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
+    <SUITE FILE_PATH="coverage/PyFiles$exam_txt_to_dict.coverage" NAME="exam_txt_to_dict Coverage Results" MODIFIED="1520496439426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
+    <SUITE FILE_PATH="coverage/PyFiles$__1_.coverage" NAME="回文数 (1) Coverage Results" MODIFIED="1495013416759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
+    <SUITE FILE_PATH="coverage/PyFiles$mmgpdzjsj.coverage" NAME="mmgpdzjsj Coverage Results" MODIFIED="1495019195952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
+    <SUITE FILE_PATH="coverage/PyFiles$test_insert_updata_delect.coverage" NAME="test_insert&amp;updata&amp;delect Coverage Results" MODIFIED="1499050771208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SqlDbWays" />
+    <SUITE FILE_PATH="coverage/PyFiles$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1498792781374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$rere.coverage" NAME="rere Coverage Results" MODIFIED="1499148715681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
+    <SUITE FILE_PATH="coverage/PyFiles$Palindrome_Number.coverage" NAME="Palindrome Number Coverage Results" MODIFIED="1495013674251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/PyFiles$P89.coverage" NAME="P89 Coverage Results" MODIFIED="1493559480813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
     <SUITE FILE_PATH="coverage/PyFiles$5.coverage" NAME="5 Coverage Results" MODIFIED="1493203958285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
-    <SUITE FILE_PATH="coverage/PyFiles$EightQueens.coverage" NAME="EightQueens Coverage Results" MODIFIED="1494898118719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
+    <SUITE FILE_PATH="coverage/PyFiles$url1.coverage" NAME="url1 Coverage Results" MODIFIED="1499148745054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
+    <SUITE FILE_PATH="coverage/PyFiles$Two_Sum.coverage" NAME="Two Sum Coverage Results" MODIFIED="1495015047168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/PyFiles$5_6_7.coverage" NAME="5&amp;6&amp;7 Coverage Results" MODIFIED="1493271923733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
+    <SUITE FILE_PATH="coverage/PyFiles$load_dump_json.coverage" NAME="load_dump_json Coverage Results" MODIFIED="1515075570024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
+    <SUITE FILE_PATH="coverage/PyFiles$Chapter1.coverage" NAME="Chapter1 Coverage Results" MODIFIED="1494898386119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookCorePython" />
+    <SUITE FILE_PATH="coverage/PyFiles$with.coverage" NAME="with Coverage Results" MODIFIED="1498042621882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFiles$5Python.coverage" NAME="5个很好的Python面试题 Coverage Results" MODIFIED="1511100990004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForPyBase" />
-    <SUITE FILE_PATH="coverage/PyFiles$P567.coverage" NAME="P567 Coverage Results" MODIFIED="1493280276855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
-    <SUITE FILE_PATH="coverage/PyFiles$exam_sort.coverage" NAME="exam_sort Coverage Results" MODIFIED="1520767957436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
+    <SUITE FILE_PATH="coverage/PyFiles$8_6.coverage" NAME="8-6 Coverage Results" MODIFIED="1515397537078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程" />
+    <SUITE FILE_PATH="coverage/PyFiles$yield_isprime.coverage" NAME="yield_isprime Coverage Results" MODIFIED="1514725819143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂乱无章的文件都去这里" />
+    <SUITE FILE_PATH="coverage/PyFiles$demo_xlsx.coverage" NAME="为的demo.xlsx统计总成绩 Coverage Results" MODIFIED="1515080782801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
+    <SUITE FILE_PATH="coverage/PyFiles$test_my_url.coverage" NAME="test_my_url Coverage Results" MODIFIED="1498809870160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$7_5.coverage" NAME="7-5 Coverage Results" MODIFIED="1515152861183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
     <SUITE FILE_PATH="coverage/PyFiles$urlimg.coverage" NAME="urlimg Coverage Results" MODIFIED="1493204544015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFiles$5_5.coverage" NAME="5-5访问文件状态 Coverage Results" MODIFIED="1515070509434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy" />
+    <SUITE FILE_PATH="coverage/PyFiles$er2.coverage" NAME="er2 Coverage Results" MODIFIED="1498035701425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$click_zan.coverage" NAME="click_zan Coverage Results" MODIFIED="1520917939581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂乱无章的文件都去这里" />
+    <SUITE FILE_PATH="coverage/PyFiles$hws.coverage" NAME="hws Coverage Results" MODIFIED="1495013672470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
+    <SUITE FILE_PATH="coverage/PyFiles$3_2.coverage" NAME="3-2迭代器 Coverage Results" MODIFIED="1511106805863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForPyBase" />
+    <SUITE FILE_PATH="coverage/PyFiles$leetcode_537.coverage" NAME="leetcode_537 Coverage Results" MODIFIED="1511104603032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForPyBase" />
+    <SUITE FILE_PATH="coverage/PyFiles$Unittests_for_TestCase.coverage" NAME="Unittests for TestCase Coverage Results" MODIFIED="1493279664825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/" />
+    <SUITE FILE_PATH="coverage/PyFiles$tsTserv.coverage" NAME="tsTserv Coverage Results" MODIFIED="1495507497019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookCorePython/Chapter2" />
+    <SUITE FILE_PATH="coverage/PyFiles$Tuples.coverage" NAME="Tuples Coverage Results" MODIFIED="1498231125080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
+    <SUITE FILE_PATH="coverage/PyFiles$Unittests_in_PyFiles.coverage" NAME="Unittests in PyFiles Coverage Results" MODIFIED="1493557337087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$test_connection.coverage" NAME="test_connection Coverage Results" MODIFIED="1499045917010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SqlDbWays" />
+    <SUITE FILE_PATH="coverage/PyFiles$lbcrpx.coverage" NAME="lbcrpx Coverage Results" MODIFIED="1495097798493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
+    <SUITE FILE_PATH="coverage/PyFiles$WellCrawling.coverage" NAME="WellCrawling Coverage Results" MODIFIED="1496898227161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
+    <SUITE FILE_PATH="coverage/PyFiles$List.coverage" NAME="List Coverage Results" MODIFIED="1498230049657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
+    <SUITE FILE_PATH="coverage/PyFiles$Unittests_in_P89_py.coverage" NAME="Unittests in P89.py Coverage Results" MODIFIED="1493530073311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/" />
+    <SUITE FILE_PATH="coverage/PyFiles$test.coverage" NAME="test Coverage Results" MODIFIED="1520939752868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
+    <SUITE FILE_PATH="coverage/PyFiles$BasicURLCrawlingCode.coverage" NAME="BasicURLCrawlingCode Coverage Results" MODIFIED="1496996116662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
+    <SUITE FILE_PATH="coverage/PyFiles$er.coverage" NAME="er Coverage Results" MODIFIED="1497999114585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$a.coverage" NAME="a Coverage Results" MODIFIED="1521775357848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$Unittests_in_test_my_url_py.coverage" NAME="Unittests in test_my_url.py Coverage Results" MODIFIED="1498809798887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$sort.coverage" NAME="sort Coverage Results" MODIFIED="1520493738149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
+    <SUITE FILE_PATH="coverage/PyFiles$rwxml.coverage" NAME="rwxml Coverage Results" MODIFIED="1515118361231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Python读写取各个类型的文件专题(csv,xml,json,xls)" />
     <SUITE FILE_PATH="coverage/PyFiles$7_1.coverage" NAME="7-1 Coverage Results" MODIFIED="1515140207517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
+    <SUITE FILE_PATH="coverage/PyFiles$5_5.coverage" NAME="5-5访问文件状态 Coverage Results" MODIFIED="1515070509434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy" />
+    <SUITE FILE_PATH="coverage/PyFiles$vip.coverage" NAME="vip Coverage Results" MODIFIED="1520942167697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
+    <SUITE FILE_PATH="coverage/PyFiles$any_kw.coverage" NAME="any-kw Coverage Results" MODIFIED="1495458637382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$LinkCrawling.coverage" NAME="LinkCrawling Coverage Results" MODIFIED="1497015967795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookWebScrapingWIthPython/Chapter1-Crawling" />
+    <SUITE FILE_PATH="coverage/PyFiles$Unittests_in_test_connection_py.coverage" NAME="Unittests in test_connection.py Coverage Results" MODIFIED="1499045902147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SqlDbWays" />
+    <SUITE FILE_PATH="coverage/PyFiles$P567.coverage" NAME="P567 Coverage Results" MODIFIED="1493280276855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
+    <SUITE FILE_PATH="coverage/PyFiles$leetcode_400.coverage" NAME="leetcode_400 Coverage Results" MODIFIED="1511190334300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForPyBase" />
+    <SUITE FILE_PATH="coverage/PyFiles$calFib.coverage" NAME="calFib Coverage Results" MODIFIED="1495459096079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$test_future.coverage" NAME="test_future Coverage Results" MODIFIED="1511095040917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1515398693295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程" />
+    <SUITE FILE_PATH="coverage/PyFiles$7_7.coverage" NAME="7-7 Coverage Results" MODIFIED="1515283639503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
+    <SUITE FILE_PATH="coverage/PyFiles$zhishu_pythonic.coverage" NAME="zhishu-pythonic Coverage Results" MODIFIED="1503219364807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$b.coverage" NAME="b Coverage Results" MODIFIED="1521774794810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$t.coverage" NAME="t Coverage Results" MODIFIED="1511188757828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForPyBase" />
+    <SUITE FILE_PATH="coverage/PyFiles$zhengze.coverage" NAME="zhengze Coverage Results" MODIFIED="1497015385552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFiles$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1497843485297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/RegEx" />
+    <SUITE FILE_PATH="coverage/PyFiles$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1515771271420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器" />
+    <SUITE FILE_PATH="coverage/PyFiles$.coverage" NAME="爬某个网站 Coverage Results" MODIFIED="1515860953140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂乱无章的文件都去这里" />
+    <SUITE FILE_PATH="coverage/PyFiles$ejzqh.coverage" NAME="ejzqh Coverage Results" MODIFIED="1495019046855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
+    <SUITE FILE_PATH="coverage/PyFiles$exam_sort.coverage" NAME="exam_sort Coverage Results" MODIFIED="1520767957436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gwdang_exam" />
+    <SUITE FILE_PATH="coverage/PyFiles$EightQueens.coverage" NAME="EightQueens Coverage Results" MODIFIED="1494898118719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
+    <SUITE FILE_PATH="coverage/PyFiles$nhentai_spider.coverage" NAME="nhentai_spider Coverage Results" MODIFIED="1515868096703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/本子下载器" />
+    <SUITE FILE_PATH="coverage/PyFiles$8_9_Exception_magic.coverage" NAME="8&amp;9-Exception&amp;magic Coverage Results" MODIFIED="1493271342044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BookBeginingPython" />
+    <SUITE FILE_PATH="coverage/PyFiles$url3.coverage" NAME="url3 Coverage Results" MODIFIED="1499152490939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
+    <SUITE FILE_PATH="coverage/PyFiles$url.coverage" NAME="url Coverage Results" MODIFIED="1499152694920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-Scrapy" />
+    <SUITE FILE_PATH="coverage/PyFiles$7_2.coverage" NAME="7-2 Coverage Results" MODIFIED="1515142262119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -142,46 +119,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="vip.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gwdang_exam/vip.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-              <folding>
-                <element signature="e#351#366#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logitech.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gwdang_exam/logitech.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding>
-                <element signature="e#353#368#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="b.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/b.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="351">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nhentai_spider.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/漫画下载器/nhentai_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -199,7 +150,6 @@
     <findStrings>
       <find>img</find>
       <find>img src</find>
-      <find>jpg</find>
       <find>next_Y</find>
       <find>super</find>
       <find>re.</find>
@@ -219,6 +169,7 @@
       <find>7217</find>
       <find>439667138</find>
       <find>&quot;productName&quot;:&quot;(.+?)&quot;</find>
+      <find>jpg</find>
     </findStrings>
     <replaceStrings>
       <replace>next_Y</replace>
@@ -243,7 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/杂乱无章的文件都去这里/aa.txt" />
         <option value="$PROJECT_DIR$/杂乱无章的文件都去这里/__init__.py" />
         <option value="$PROJECT_DIR$/Course-SeniorPy/5-5访问文件状态.py" />
         <option value="$PROJECT_DIR$/Course-SeniorPy/5-6临时文件.py" />
@@ -292,8 +242,9 @@
         <option value="$PROJECT_DIR$/click_zan.py" />
         <option value="$PROJECT_DIR$/gwdang_exam/test.py" />
         <option value="$PROJECT_DIR$/gwdang_exam/vip.py" />
-        <option value="$PROJECT_DIR$/a.py" />
         <option value="$PROJECT_DIR$/b.py" />
+        <option value="$PROJECT_DIR$/a.py" />
+        <option value="$PROJECT_DIR$/漫画下载器/nhentai_spider.py" />
       </list>
     </option>
   </component>
@@ -302,6 +253,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -363,17 +317,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -384,16 +328,20 @@
               <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PyFiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="漫画下载器" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/djangoProject/NewsPage" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
@@ -429,8 +377,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.b">
+  <component name="RunManager" selected="Python.a">
     <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyfile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -441,8 +390,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -450,6 +398,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyfile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -460,8 +409,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -469,6 +417,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="click_zan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyfile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -479,8 +428,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="D:\Python_Projects\PyFiles\click_zan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -488,6 +436,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="exam_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyfile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -498,8 +447,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gwdang_exam/exam_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -507,6 +455,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="exam_txt_to_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyfile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -517,8 +466,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gwdang_exam/exam_txt_to_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -526,6 +474,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyfile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -536,8 +485,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="D:\Python_Projects\PyFiles\gwdang_exam\logitech.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -545,6 +493,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="vip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyfile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -555,8 +504,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gwdang_exam/vip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -714,71 +662,65 @@
       <envs />
     </configuration>
     <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="pyfile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_regexPattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="pyfile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
+      <module name="pyfile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyfile" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.click_zan" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.vip" />
-      <item index="3" class="java.lang.String" itemvalue="Python.a" />
-      <item index="4" class="java.lang.String" itemvalue="Python.b" />
+    <list>
+      <item itemvalue="Python.click_zan" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.vip" />
+      <item itemvalue="Python.a" />
+      <item itemvalue="Python.b" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.b" />
-        <item index="1" class="java.lang.String" itemvalue="Python.a" />
-        <item index="2" class="java.lang.String" itemvalue="Python.vip" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.click_zan" />
+      <list>
+        <item itemvalue="Python.a" />
+        <item itemvalue="Python.b" />
+        <item itemvalue="Python.vip" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.click_zan" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -797,13 +739,6 @@
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
       <updated>1497999505710</updated>
-    </task>
-    <task id="LOCAL-00015" summary="update readme.md">
-      <created>1497972603245</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1497972603245</updated>
     </task>
     <task id="LOCAL-00016" summary="HackerRank">
       <created>1498231462598</created>
@@ -1134,7 +1069,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520918104397</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="更健壮">
+      <created>1521725001270</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1521725001272</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1180,29 +1122,31 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3362256" sideWeight="0.49786323" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28967813" sideWeight="0.49946353" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29522753" sideWeight="0.5005365" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.4978678" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21309656" sideWeight="0.49248928" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28967813" sideWeight="0.4946352" order="6" side_tool="true" content_ui="tabs" x="23" y="410" width="1872" height="307" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20171674" sideWeight="0.49459043" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36958936" sideWeight="0.5234541" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29744136" sideWeight="0.5054096" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.49786323" weight="0.3362256" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.49946353" side_tool="true" weight="0.28967813" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4978678" weight="0.32861805" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49248928" side_tool="true" weight="0.21309656" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5005365" weight="0.29522753" />
+      <window_info anchor="bottom" x="23" y="410" width="1872" height="307" id="Terminal" order="6" sideWeight="0.4946352" side_tool="true" weight="0.28967813" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49459043" visible="true" weight="0.21244635" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32942432" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5054096" side_tool="true" weight="0.29744136" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5234541" weight="0.36958936" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="5" weight="0.32942432" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.32963374" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1275,65 +1219,39 @@
       </breakpoints>
       <option name="time" value="191" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/类啊/class4-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/类啊/class4-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/类啊/class4-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-Scrapy/Chapter3-RegEx&amp;dfs&amp;bfs/url去重策略.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/url去重策略.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/BasicURLCrawlingCode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-729">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-762174762/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="309" column="4" lean-forward="false" selection-start-line="309" selection-start-column="4" selection-end-line="309" selection-end-column="4" />
-        </state>
+        <state relative-caret-position="-729" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/leetcode_400.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
-          <caret line="67" column="18" lean-forward="false" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/7-4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -1347,21 +1265,21 @@
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/7-2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/7-3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -1375,49 +1293,49 @@
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/7-7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="783">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/7-6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="27" selection-end-column="34" />
+          <caret line="12" selection-start-line="12" selection-start-column="2" selection-end-line="27" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/8-6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1215">
-          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1431,49 +1349,49 @@
     <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/链表.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="22" selection-end-column="36" />
+          <caret line="12" selection-start-line="12" selection-end-line="22" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/quick_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/TopK.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="71" column="24" lean-forward="false" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+          <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/补充缺失的代码.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
-          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/斐波那契数列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1056">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/8-1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="490">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/脑补结果.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -1485,7 +1403,7 @@
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8多线程/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
-          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1500,77 +1418,66 @@
     <entry file="file://C:/Python27/Lib/encodings/utf_8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter8装饰器/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gwdang_exam/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/漫画下载器/nhentai_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="79" column="37" lean-forward="false" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/click_zan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="772">
-          <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gwdang_exam/exam_JD.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gwdang_exam/exam_txt_to_dict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="972">
-          <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gwdang_exam/exam_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Python27/Lib/site-packages/requests/api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Python27/Lib/json/decoder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
-          <caret line="381" column="0" lean-forward="false" selection-start-line="381" selection-start-column="0" selection-end-line="381" selection-end-column="0" />
+          <caret line="381" selection-start-line="381" selection-end-line="381" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gwdang_exam/vip.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding>
             <element signature="e#351#366#0" expanded="true" />
           </folding>
@@ -1579,27 +1486,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gwdang_exam/logitech.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="594">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding>
             <element signature="e#353#368#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-762174762/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="1985" lean-forward="true" selection-start-line="1985" selection-end-line="1985" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="594">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/b.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="351">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/漫画下载器/nhentai_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>

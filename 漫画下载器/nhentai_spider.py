@@ -8,7 +8,11 @@
 --------------------------------------------------------------------------
     Desc:   嘛，就是一个漫画网站的下载器
             In:漫画id
-            Out:IO
+            Out:漫画
+            有的漫画id和每一页的id不是同一个的，会报错.
+            打包为exe的方式：
+            pip install PyInstaller
+            pyinstaller -F nhentai_spider.py
 --------------------------------------------------------------------------
 """
 import re
@@ -21,13 +25,13 @@ OUTPUT_DIR_NAME = u'漫画'
 
 
 # 下载图片存到本地
-def download_img(img_url, i, page_name, img_nums):
-    if not os.path.exists(os.path.join(OUTPUT_DIR_NAME, page_name, '%d.jpg' % i)):
-        with open(os.path.join(OUTPUT_DIR_NAME, page_name, '%d.jpg' % i), 'wb') as f:
-            print 'downloading:(%d/%d)' % (i, img_nums)
+def download_img(img_url, i, page_name, img_nums, model_of_image):
+    if not os.path.exists(os.path.join(OUTPUT_DIR_NAME, page_name, '%d.%s' % (i, model_of_image))):
+        with open(os.path.join(OUTPUT_DIR_NAME, page_name, '%d.%s' % (i, model_of_image)), 'wb') as f:
+            print('downloading:(%d/%d)' % (i, img_nums))
             img = requests.get(img_url)
             f.write(img.content)
-            print 'finished downloading:(%d/%d)' % (i, img_nums)
+            print('finished downloading:(%d/%d)' % (i, img_nums))
 
 
 if __name__ == '__main__':
@@ -36,8 +40,11 @@ if __name__ == '__main__':
             try:
                 page_id = int(input('Please input id: '))
                 page_url = 'https://nhentai.net/g/%d/' % page_id
+                model_of_image = raw_input('jpg or png?:')
+                if model_of_image not in ('jpg', 'png'):
+                    continue
             except Exception as e:
-                print e
+                print(e)
             else:
                 break
 
@@ -45,9 +52,9 @@ if __name__ == '__main__':
         if not os.path.exists('Catchs'): os.mkdir('Catchs')
         # 为这个页面缓存一下吧
         if not os.path.exists('Catchs\\nhentai.%s.html' % page_id):
-            print 'downloading page...'
+            print('downloading page...')
             page = requests.get(page_url).text.encode('utf8')  # Unicode要转成utf8才能写入文件
-            print 'finished downloading page...'
+            print('finished downloading page...')
             with open('Catchs\\nhentai.%s.html' % page_id, 'wb') as f:
                 f.write(page)
         else:
@@ -68,7 +75,7 @@ if __name__ == '__main__':
         # 把url存储在队列
         img_urls = []
         for i in range(1, img_nums + 1):
-            img_urls.append(img_url + '%d.jpg' % i)
+            img_urls.append(img_url + '%d.%s' % (i, model_of_image))
 
         downloadThreads = []  # 线程池
         for i in range(img_nums):  # 为每个图片都创建个线程
@@ -81,6 +88,5 @@ if __name__ == '__main__':
 
         for downloadThread in downloadThreads:
             downloadThread.join()
-        print page_name, "is Finished."
-        print '-' * 50
-        print ''
+        print(page_name, "is Finished.")
+        print('-' * 50)
