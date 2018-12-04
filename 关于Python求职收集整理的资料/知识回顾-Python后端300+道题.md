@@ -5,6 +5,8 @@
 其他:
 - [Django 必会面试题总结](https://www.cnblogs.com/wenyule/p/699aa722eb4f9b16acf554df2337ec6f.html#_label2)
 
+- [第一部分解答](https://blog.csdn.net/change_world_program/article/details/81175754)
+
 将这个文档从网上拷贝到本地有两个原因:
 - 老大临时不在，去客串面试，根本不知道该问什么楠，有这个就好了
 - 自己也时常复习一哈Python Web知识体系

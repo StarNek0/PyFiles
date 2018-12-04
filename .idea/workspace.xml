@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/关于Python求职收集整理的资料/知识回顾-Python后端300+道题.md" afterDir="false" />
+    <list default="true" id="bdcc72f6-d2bf-4b01-ba22-139190ae098d" name="Default" comment="init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,21 +115,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/quick_sort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/知识回顾-Python后端300+道题.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="190">
-                <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="209">
+                <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -334,13 +323,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="E:/djangoProject/NewsPage" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SearchEverywhereHistoryKey" value="pow&#9;null&#9;null" />
+    <property name="ToolWindowTODO.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="ToolWindowTODO.ShowToolbar" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="SearchEverywhereHistoryKey" value="pow&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -628,21 +617,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490100690662</updated>
-      <workItem from="1543888532264" duration="1557000" />
-    </task>
-    <task id="LOCAL-00016" summary="HackerRank">
-      <created>1498231462598</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1498231462598</updated>
-    </task>
-    <task id="LOCAL-00017" summary="快排。。">
-      <created>1498726557247</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1498726557247</updated>
+      <workItem from="1543888532264" duration="3521000" />
     </task>
     <task id="LOCAL-00018" summary="。">
       <created>1498996093016</created>
@@ -973,7 +948,21 @@
       <option name="project" value="LOCAL" />
       <updated>1526126695252</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="init">
+      <created>1543890366965</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1543890366966</updated>
+    </task>
+    <task id="LOCAL-00066" summary="init">
+      <created>1543891194965</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1543891194965</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1009,7 +998,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1557000" />
+    <option name="totallyTimeSpent" value="3521000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -1022,7 +1011,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="804" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49459043" visible="true" weight="0.2081545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1064,7 +1052,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="快排。。" />
     <MESSAGE value="。" />
     <MESSAGE value="pythonic求质数" />
     <MESSAGE value="每天几道面试题.." />
@@ -1089,7 +1076,8 @@
     <MESSAGE value="购物党笔试" />
     <MESSAGE value="click zan" />
     <MESSAGE value="更健壮" />
-    <option name="LAST_COMMIT_MESSAGE" value="更健壮" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1118,39 +1106,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Book-WebScrapingWIthPython/Chapter1-Crawling/BasicURLCrawlingCode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-729" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/leetcode_400.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/7-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/7-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="18" column="56" lean-forward="true" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/7-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course-SeniorPy/Chapter7类与对象/7-3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
@@ -1327,13 +1282,6 @@
     <entry file="file://$PROJECT_DIR$/漫画下载器/漫画/202122 - (C84) [直道館 (MARCYどっぐ、ホルモン恋次郎)] 速球通信 C84 (よろず)/1.jpg" />
     <entry file="file://$PROJECT_DIR$/漫画下载器/漫画/202122 - (C84) [直道館 (MARCYどっぐ、ホルモン恋次郎)] 速球通信 C84 (よろず)/2.jpg" />
     <entry file="file://$PROJECT_DIR$/漫画下载器/Catchs/nhentai.202122.html" />
-    <entry file="file://$PROJECT_DIR$/漫画下载器/nhentai_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="895">
-          <caret line="67" column="64" selection-start-line="67" selection-start-column="64" selection-end-line="67" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/b.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1384,6 +1332,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类啊/class4-2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/Code/quick_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1391,11 +1345,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Course-Scrapy/url.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course-Scrapy/url1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course-Scrapy/rere.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/漫画下载器/nhentai_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/关于Python求职收集整理的资料/知识回顾-Python后端300+道题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
