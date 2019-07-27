@@ -4,7 +4,6 @@
     File:   nhentai_spider.py
     Auth:   zsdostar
     Date:   2018/1/13 22:23
-    Sys:    Windows 10
 --------------------------------------------------------------------------
     Desc:   嘛，就是一个漫画网站的下载器
             In:漫画id
@@ -28,19 +27,19 @@ OUTPUT_DIR_NAME = u'漫画'
 def download_img(img_url, i, page_name, img_nums, model_of_image):
     if not os.path.exists(os.path.join(OUTPUT_DIR_NAME, page_name, '%d.%s' % (i, model_of_image))):
         with open(os.path.join(OUTPUT_DIR_NAME, page_name, '%d.%s' % (i, model_of_image)), 'wb') as f:
-            print('downloading:(%d/%d)' % (i, img_nums))
+            print('开始下载:(%d/%d)' % (i, img_nums))
             img = requests.get(img_url)
             f.write(img.content)
-            print('finished downloading:(%d/%d)' % (i, img_nums))
+            print('下载完毕:(%d/%d)' % (i, img_nums))
 
 
 if __name__ == '__main__':
     while True:
         while True:  # 不至于输错就抛异常
             try:
-                page_id = int(input('Please input id: '))
+                page_id = int(input('请输入漫画id: '))
                 page_url = 'https://nhentai.net/g/%d/' % page_id
-                model_of_image = raw_input('jpg or png?:')
+                model_of_image = input('jpg 还是 png?:')
                 if model_of_image not in ('jpg', 'png'):
                     continue
             except Exception as e:
@@ -61,8 +60,7 @@ if __name__ == '__main__':
             with open('Catchs\\nhentai.%s.html' % page_id, 'r') as f:
                 page = f.read()
 
-        page_name = '%s - ' % page_id + re.search(pattern='<h2>(.+)</h2>', string=page).group(1).decode(
-            'utf8')  # 漫画名&漫画的目录名
+        page_name = '%s - ' % page_id + re.search(pattern='<h2>(.+)</h2>', string=page).group(1)  # 漫画名&漫画的目录名
         img_nums = len(re.findall(pattern='thumb-container', string=page))  # 这个漫画多少张图片
         img_id = re.search(pattern='galleries/(\d+)', string=page).group(1)  # 这个漫画所有图片唯一id标识
         img_url = 'https://i.nhentai.net/galleries/%s/' % img_id
@@ -80,7 +78,8 @@ if __name__ == '__main__':
         downloadThreads = []  # 线程池
         for i in range(img_nums):  # 为每个图片都创建个线程
             time.sleep(0.2)  # 为了防止爬虫被网站ban
-            downloadThread = threading.Thread(target=download_img, args=(img_urls[i], i + 1, page_name, img_nums, model_of_image))
+            downloadThread = threading.Thread(target=download_img,
+                                              args=(img_urls[i], i + 1, page_name, img_nums, model_of_image))
             downloadThreads.append(downloadThread)
             downloadThread.start()
 
@@ -88,5 +87,5 @@ if __name__ == '__main__':
 
         for downloadThread in downloadThreads:
             downloadThread.join()
-        print(page_name, "is Finished.")
-        print('-' * 50)
+        print(page_name, "下载完毕")
+        print('-' * 100)
